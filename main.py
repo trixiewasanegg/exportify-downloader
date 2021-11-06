@@ -40,7 +40,7 @@ try:
 except:
     csvin = input("Please give the absolute path to your CSV File: \n")    
 
-delim = input('Please Define Your Path Delimiter')
+delim = input('Please Define Your Path Delimiter: \n')
 
 path_prefix = input("Do you want to manually insert a prefix to the path? Leave blank for absolute path \n")
 
@@ -181,3 +181,4 @@ with open(tsv, 'wt', newline='') as out_file:
             path = path_prefix + delim + playlistname + delim + id
         print ('Written row ' + str(i))
         tsv_writer.writerow([trname, arname, '', alname, '', '', '', '', '', '', size, dur, '', '', trnum, '', '', dateadd, dateadd, bitrate, samplerate, '', kind, '', '', '', '', '', '', '', path])
+        i = i+1
