@@ -11,6 +11,12 @@ import eyed3
 import math
 import sys
 
+#Gets Timecodes
+dateTimeObj = datetime.now()
+
+timestamp = dateTimeObj.strftime("%d-%b-%Y_%H%M")
+datestamp = dateTimeObj.strftime("%Y-%m-%d")
+
 ###Defines Functions
 
 #Function converts string with Unicode bytes into websafe text
@@ -32,7 +38,12 @@ def days_between(d1, d2):
 try:
     csvin = sys.argv[1]
 except:
-    csvin = input("Please give the absolute path to your CSV File: ")    
+    csvin = input("Please give the absolute path to your CSV File: \n")    
+
+delim = input('Please Define Your Path Delimiter')
+
+path_prefix = input("Do you want to manually insert a prefix to the path? Leave blank for absolute path \n")
+
 
 path, file = os.path.split(csvin)
 
@@ -42,16 +53,16 @@ playlistname = tmp[0]
 
 ###Creates Output Folder
 
-dateTimeObj = datetime.now()
-
-timestamp = dateTimeObj.strftime("%d-%b-%Y_%H%M")
-datestamp = dateTimeObj.strftime("%Y-%m-%d")
+try:
+    os.mkdir(os.path.expanduser('~') + delim + 'exportify')
+except:
+    print ('exportify folder exists')
 
 try:
-    dir = playlistname
+    dir = os.path.expanduser('~') + delim + 'exportify' + delim + playlistname
     os.mkdir(dir)
 except:
-    inp = input("Folder already exists...")
+    print ("Folder already exists...")
 
 
 
@@ -123,8 +134,8 @@ for trname in trnames:
     stream.download(filename=filename,output_path=dir)
 
     #ffmpeg imports from filein and exports to fileout
-    fileout = dir + '/' + id + '.mp3'
-    filein = dir + '/' + id + '.mp4'
+    fileout = dir + delim + id + '.mp3'
+    filein = dir + delim + id + '.mp4'
     print ('Converting ' + filein + ' to ' + fileout)
     cmd = 'ffmpeg -hide_banner -loglevel error -i  ' + filein +' ' + fileout
     os.system(cmd)
@@ -162,8 +173,11 @@ with open(tsv, 'wt', newline='') as out_file:
         trnum=trnums[i]
         dur=durations[i]
         id=ytids[i]
-        fileout = dir + '/' + id + '.mp3'
+        fileout = dir + delim + id + '.mp3'
         size = os.path.getsize(fileout)
-        path = os.path.abspath(fileout)
+        if path_prefix == '':
+            path = os.path.abspath(fileout)
+        else:
+            path = path_prefix + delim + playlistname + delim + id
         print ('Written row ' + str(i))
         tsv_writer.writerow([trname, arname, '', alname, '', '', '', '', '', '', size, dur, '', '', trnum, '', '', dateadd, dateadd, bitrate, samplerate, '', kind, '', '', '', '', '', '', '', path])
