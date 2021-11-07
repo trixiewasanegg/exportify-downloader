@@ -15,7 +15,7 @@ except:
 for csv in foldercontents:
     tmp = csv.split('.')
     playlistname = tmp[0]
-    print ("Generating " + playlistname + '...')
+    print ("#################################################################################### Generating " + playlistname + '...')
     try:
         dir = os.path.expanduser('~') + delim + 'playlists' + delim + playlistname
         os.mkdir(dir)

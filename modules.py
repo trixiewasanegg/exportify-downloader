@@ -131,9 +131,12 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
         ytids.append(ytid)
         
         #Downloads Stream
-        fileout = ytdown(ytid, dir, delim)
-        meta(fileout, artist, track, album, trnum)
-        i = i+1
+        try:
+            fileout = ytdown(ytid, dir, delim)
+            meta(fileout, artist, track, album, trnum)
+            i = i+1
+        except:
+            print("Error occurred with ID " + ytid + ".")
     
     ###Generates TSV for iTunes to read
     print ("Generating tab separated .txt file for iTunes to read")
@@ -168,7 +171,10 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
             dur=durations[i]
             id=ytids[i]
             fileout = dir + delim + id + '.mp3'
-            size = os.path.getsize(fileout)
+            try:
+                size = os.path.getsize(fileout)
+            except:
+                size = str(0)
             if path_prefix == 0:
                 path = os.path.abspath(fileout)
             else:
