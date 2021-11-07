@@ -60,7 +60,7 @@ def ytdown(id, dir, delim):
     fileout = dir + delim + id + '.mp3'
     filein = dir + delim + id + '.mp4'
     print ('Converting ' + filein + ' to ' + fileout)
-    cmd = 'ffmpeg -hide_banner -loglevel error -i  ' + filein +' ' + fileout
+    cmd = 'ffmpeg -hide_banner -loglevel error -y -i  ' + filein +' ' + fileout
     os.system(cmd)
 
     #Deletes File In
@@ -84,6 +84,7 @@ def meta(file, arname, trname, alname, trnum):
     meta.tag.save()
     print ('Meta Saved.')
 
+#Days Between Generator
 def days_between(d1, d2):
     d1 = datetime.strptime(d1, "%Y-%m-%d")
     d2 = datetime.strptime(d2, "%Y-%m-%d")
@@ -134,15 +135,17 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
         try:
             fileout = ytdown(ytid, dir, delim)
             meta(fileout, artist, track, album, trnum)
-            i = i+1
+        
         except:
-            print("Error occurred with ID " + ytid + ".")
+            text = ytid + ' error occured when downloading - playlist:' + playlistname
+            exception('400', text, delim)
+        i = i+1
     
     ###Generates TSV for iTunes to read
     print ("Generating tab separated .txt file for iTunes to read")
 
     #Defines File
-    tsv = dir + '/' + playlistname + '.txt'
+    tsv = dir + delim + playlistname + '.txt'
 
     #Opens file
     with open(tsv, 'wt', newline='') as out_file:
@@ -174,11 +177,25 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
             try:
                 size = os.path.getsize(fileout)
             except:
+                exception('404', 'failed to get size of file ' + fileout, delim)
                 size = str(0)
-            if path_prefix == 0:
+            if path_prefix == '':
                 path = os.path.abspath(fileout)
             else:
                 path = path_prefix + delim + playlistname + delim + id
             print ('Written row ' + str(i))
             tsv_writer.writerow([trname, arname, '', alname, '', '', '', '', '', '', size, dur, '', '', trnum, '', '', dateadd, dateadd, bitrate, samplerate, '', kind, '', '', '', '', '', '', '', path])
             i = i+1
+
+#Exception Handler
+def exception(code, text, delim):
+    if delim == '':
+        delim = "\\"
+    print ("Oh shit, something went wrong... Lemme just document this")
+    file = os.path.expanduser('~') + delim + 'playlists' + delim + 'exceptions.csv'
+    dateTimeObj = datetime.now()
+    timecode = dateTimeObj.strftime("%Y-%m-%d_%H%M")
+    with open(file, 'a', newline='') as excfile:
+        csv_writer = csv.writer(excfile, delimiter=',')
+        csv_writer.writerow([timecode, code, text])
+    print ("Documented: " +timecode + ', ' + code + ', ' + text)
