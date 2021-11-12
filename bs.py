@@ -52,7 +52,8 @@ for tsvin in foldercontents:
             trnums.append(trnum)
             durtmp = row['Time']
             dur = int(durtmp)/2
-            durations.append(dur)
+            dur = round(dur)
+            durations.append(str(dur))
             sizes.append(row['Size'])
             if int(trnum) == 10:
                 relpth = arname + delim + alname + delim + trnum + ' ' + trname + '.mp3'
