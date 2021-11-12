@@ -1,0 +1,7 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Palm Road	AnTgry									2776323	86.5			2			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/AnTgry/Road Trip/02 Palm Road.mp3
+Rain	Tendencies									2615407	81.5			2			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Tendencies/Waterbed/02 Rain.mp3
+Flying to Space	Android52									2763378	86.0			2			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Android52/The B-Sides/02 Flying to Space.mp3
+Capri Sun	DUCAT									2909231	90.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/DUCAT/Groovez/01 Capri Sun.mp3
+Funk Express	Proux									1511594	55.0			4			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Proux/Back By Popular Demand/04 Funk Express.mp3
+Have A Good Time	Skule Toyama									2335818	72.5			2			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Skule Toyama/Toyama's Love Island/02 Have A Good Time.mp3

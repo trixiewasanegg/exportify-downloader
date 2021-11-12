@@ -22,20 +22,18 @@ locations=[]
 locationfail=[]
 #Playlist Name
 playlistnames=[]
-
-###Imports Master File for lookup
-with open('master.csv', newline='') as master:
-    for row in csv.DictReader(master, delimiter=','):
-        keys.append(row['Key'])
-        locations.append(row['Location'])
+#Sizes
+sizes=[]
 
 inputfolder = 'C:\\Users\\hi\\Documents\\GitHub\\exportify-to-itunes\\tsv to fix\\'
+
 foldercontents = os.listdir(inputfolder)
+
 outputfolder = 'C:\\Users\\hi\\Documents\\GitHub\\exportify-to-itunes\\tsvout\\'
 
-path = 'C:\\Users\\hi\\playlists'
+path = 'Macintosh HD/Users/bea/Music/Music/Media.localized/Music'
 
-delim = '\\'
+delim = '/'
 
 for tsvin in foldercontents:
     tmp = tsvin.split('.')
@@ -44,14 +42,28 @@ for tsvin in foldercontents:
     file = inputfolder + playlistname + '.txt'
     with open(file, newline='') as input:
         for row in csv.DictReader(input, delimiter='\t'):
-            trnames.append(row['Name'])
-            arnames.append(row['Artist'])
-            alnames.append(row['Album'])
-            trnums.append(row['Track Number'])
+            trname = row['Name']
+            trnames.append(trname)
+            arname = row['Artist']
+            arnames.append(arname)
+            alname = row['Album']
+            alnames.append(alname)
+            trnum = row['Track Number']
+            trnums.append(trnum)
             durtmp = row['Time']
             dur = int(durtmp)/2
             durations.append(dur)
-            locationfail.append(row['Location'])
+            sizes.append(row['Size'])
+            if int(trnum) == 10:
+                relpth = arname + delim + alname + delim + trnum + ' ' + trname + '.mp3'
+            if int(trnum) > 10:
+                relpth = arname + delim + alname + delim + trnum + ' ' + trname + '.mp3'
+            else:
+                trnum = '0' + trnum
+                relpth = arname + delim + alname + delim + trnum + ' ' + trname + '.mp3'
+            location = path + delim + relpth
+            locations.append(location)
+            
     i=0
     tsv = outputfolder + playlistname + '.txt'
     with open(tsv, 'wt', newline='') as out_file:
@@ -63,7 +75,8 @@ for tsvin in foldercontents:
                 alname = alnames[i]
                 trnum = trnums[i]
                 dur = durations[i]
-                location = locationfail[i]
+                location = locations[i]
+                size = sizes[i]
                 
                 dateadd='44505'
 
@@ -71,11 +84,6 @@ for tsvin in foldercontents:
                 bitrate=128
                 samplerate=44100
                 kind='MPEG audio file'
-                try:
-                    size = os.path.getsize(location)
-                except:
-                    print ('unable to get filesize ', location)
-                    size = str(0)
                 tsv_writer.writerow([trname, arname, '', '', '', '', '', '', '', '', size, dur, '', '', trnum, '', '', dateadd, dateadd, bitrate, samplerate, '', kind, '', '', '', '', '', '', '', location])
                 i = i+1
     trnames=[]
@@ -86,3 +94,4 @@ for tsvin in foldercontents:
     ytids=[]
     locations=[]
     playlistnames=[]
+    sizes=[]

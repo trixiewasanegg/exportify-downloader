@@ -1,0 +1,15 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Never Miss A Beat	Kaiser Chiefs		Off With Their Heads							3027125	186			2			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\kx3e-zDnQx4
+Highroyds	Kaiser Chiefs		Yours Truly, Angry Mob (Deluxe)							3182191	198			4			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\m2mGixWeNis
+First Lie	Those Who Dream		Luminary							3135776	226			4			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\DCfBMutrHUk
+Hell of a Ride - Studio	Bo Burnham		what.							4225820	263			5			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\_sP7itTCDTI
+I'm Bo Yo	Bo Burnham		Bo Burnham							3765220	235			1			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\ZmsdIQuywaE
+Afterskool Special	Afterskool Special feat. Jimmy Urine, Fake Shark Real Zombie, Jimmy Urine		LIAR							3828398	238			7			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\llimwz01bKU
+Tom's Dog (asdfmovie5 theme)	The Living Tombstone		Tom's Dog (asdfmovie5 theme)							2725802	170			1			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\eM3LnNjAZh0
+Bigger Picture	Puppet, Foria		Bigger Picture							3174656	193			1			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\4BievZza57w
+Saints of the Sinners	The Faim		Saints of the Sinners							2930158	182			1			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\7T4LzkWxq1o
+Chuffed (Dad Song)	Aunty Donna		Chuffed (Dad Song)							2722430	163			1			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\o4fHlldbRHo
+Eff - Studio	Bo Burnham		what.							2728679	170			2			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\TvBQklYBF3A
+Fuccboi Anthem	Aunty Donna		Fuccboi Anthem							3229824	202			1			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\sDVSOyvUwQ8
+Nerds - Studio	Bo Burnham		what.							3302957	206			3			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\eTt3KwXA-ho
+F*ck Your Mom	Cyndago		F*ck Your Mom							952777	59			1			44505	44505	128	44100		MPEG audio file								\happiness_in_a_playlist_2_0_(now_with_less_dubstep)\7Vk_WPyITlY

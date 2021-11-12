@@ -1,0 +1,116 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Money Maker (feat. LunchMoney Lewis & Aston Merrygold)	Throttle, Aston Merrygold , LunchMoney Lewis		Money Maker (feat. LunchMoney Lewis & Aston Merrygold)							0	161			1			44505	44505	128	44100		MPEG audio file								\big_boy\wZ0KI_ESDrw
+Airglow	Laszlo		Monstercat - Best of 2016							3818728	238			22			44505	44505	128	44100		MPEG audio file								\big_boy\y3efqiD0EME
+On My Way Up	Conro		Monstercat - Best of 2016							3144564	196			17			44505	44505	128	44100		MPEG audio file								\big_boy\UQtcXzIXEIo
+I Hear You	Vicetone		I Hear You							2592425	158			1			44505	44505	128	44100		MPEG audio file								\big_boy\S3sMVliQsFY
+Gravity	Laszlo		Gravity							3411617	213			1			44505	44505	128	44100		MPEG audio file								\big_boy\DzJXOb7Q1_s
+Shapes & Shifts	Eminence		Universe EP							3250717	270			3			44505	44505	128	44100		MPEG audio file								\big_boy\WTeqUejf3D0
+Bruises	Fox Stevenson		Bruises (Destinations)							3534519	220			1			44505	44505	128	44100		MPEG audio file								\big_boy\sFCpqrMMQGM
+Fault (feat. McCall)	MYRNE, Grant, McCall		Fault (feat. McCall)							4234201	264			1			44505	44505	128	44100		MPEG audio file								\big_boy\y91hSD1csl4
+Get Lemon	Disciple		Disciple Alliance Vol. 4							3865542	231			1			44505	44505	128	44100		MPEG audio file								\big_boy\yyrr5ZSh7Rk
+5 Star Life	Andrew Huang		Pintxos							3363980	210			12			44505	44505	128	44100		MPEG audio file								\big_boy\G-PPu5quZP8
+Purple People Eater	Pegboard Nerds		Purple People Eater							4197831	262			1			44505	44505	128	44100		MPEG audio file								\big_boy\AKkKeNtYMTo
+500	BRAINCOATS		Hopeless Arguments							1736866	108			3			44505	44505	128	44100		MPEG audio file								\big_boy\aFLDhd7nIKA
+Highroyds	Kaiser Chiefs		Yours Truly, Angry Mob							3182182	198			4			44505	44505	128	44100		MPEG audio file								\big_boy\m2mGixWeNis
+Girls / Girls / Boys	Panic! At The Disco		Too Weird to Live, Too Rare to Die!							3362770	206			6			44505	44505	128	44100		MPEG audio file								\big_boy\ZNnYu6PbHrc
+Say Amen (Saturday Night)	Panic! At The Disco		Pray for the Wicked							3028810	189			2			44505	44505	128	44100		MPEG audio file								\big_boy\KZ2iVfpvpyo
+Starship	Grant		Starship							3410783	213			1			44505	44505	128	44100		MPEG audio file								\big_boy\gglhMDQdFms
+What Are You Waiting For	Stonebank		What Are You Waiting For							4097107	255			1			44505	44505	128	44100		MPEG audio file								\big_boy\n2qgc8vF8sU
+New Horizons	Protostar		New Horizons							3093981	193			1			44505	44505	128	44100		MPEG audio file								\big_boy\bJK1P1OVQ8Y
+Shiawase	Dion Timmer		Shiawase							2909655	217			1			44505	44505	128	44100		MPEG audio file								\big_boy\suisIF4hwyw
+Silhouette	Bad Computer, Skyelle		Silhouette							4232092	264			1			44505	44505	128	44100		MPEG audio file								\big_boy\GMb02tAqDRM
+Here It Goes Again	OK Go		Oh No							2976948	179			3			44505	44505	128	44100		MPEG audio file								\big_boy\dTAAsCNK7RA
+The Writing's on the Wall	OK Go		Hungry Ghosts							4145995	214			2			44505	44505	128	44100		MPEG audio file								\big_boy\oL3qDpubXU8
+Upside Down & Inside Out	OK Go		Hungry Ghosts							3000368	187			1			44505	44505	128	44100		MPEG audio file								\big_boy\dqUdI4AIDF0
+The Other Day	Insan3lik3		Monstercat 007 - Solace							3847157	239			16			44505	44505	128	44100		MPEG audio file								\big_boy\qC4NdLg_05c
+THE DROP - Stonebank Remix	Gammer, Stonebank		THE DROP (Remixes Pt. 1)							3766930	234			4			44505	44505	128	44100		MPEG audio file								\big_boy\VR_PozHitHU
+Aiwa	RIOT		Aiwa							4456507	278			1			44505	44505	128	44100		MPEG audio file								\big_boy\lHKuPOlq9c8
+Peace Of Mind	Fox Stevenson		Disciple Alliance Vol. 4							3329727	208			6			44505	44505	128	44100		MPEG audio file								\big_boy\5wKfF7zXVc0
+Glide	Stephen Walking		Glide							3152070	196			1			44505	44505	128	44100		MPEG audio file								\big_boy\VL3mPTaFFak
+Summer Is a Curse	The Faim		Summer Is a Curse							2900893	181			1			44505	44505	128	44100		MPEG audio file								\big_boy\VDkwe8_LHW4
+entertainment (live mashup)	underscores									3666580	236			0			44505	44505	128	44100		MPEG audio file								\big_boy\WaWOB-Mb3Kk
+Hands Down	Brandyn Burnette, dwilly, Kayo Genesis		Hands Down							2940615	183			1			44505	44505	128	44100		MPEG audio file								\big_boy\7D8aqOX07o0
+Time Goes By	Nitro Fun		Time Goes By							3301707	206			1			44505	44505	128	44100		MPEG audio file								\big_boy\NhImHFdB-vE
+Toothless Hawkins (And His Robot Jazz Band)	Varien, Razihel		Monstercat 013 - Awakening							3850957	240			26			44505	44505	128	44100		MPEG audio file								\big_boy\cD6M1eEWANk
+New Age	MUZZ, Celldweller		The Cascade EP							5351384	334			1			44505	44505	128	44100		MPEG audio file								\big_boy\X78KKpVCf1E
+About U	Aiobahn, Vin		About U							2809762	175			1			44505	44505	128	44100		MPEG audio file								\big_boy\uSRLEoBqVQg
+The Mob	RIOT		The Mob							5281983	330			1			44505	44505	128	44100		MPEG audio file								\big_boy\WUJK8jQghI4
+Cantina	Trinix		Cantina							2971088	185			1			44505	44505	128	44100		MPEG audio file								\big_boy\LU00PTiqbUA
+The Island, Pt. 1 (Dawn) - Skrillex Remix	Pendulum, Skrillex		The Island, Pt. 1 (Dawn) [Skrillex Remix]							3357363	209			1			44505	44505	128	44100		MPEG audio file								\big_boy\NAbSeSMjyPY
+Sweets (Soda Pop)	Fox Stevenson		Sweets (Soda Pop)							4726544	295			1			44505	44505	128	44100		MPEG audio file								\big_boy\ARgdBb2Go0w
+Take You Down	Fox Stevenson		Take You Down / Melange							3791989	223			1			44505	44505	128	44100		MPEG audio file								\big_boy\d5UScX5Lgb4
+Crab Rave	Noisestorm		Crab Rave							3077676	161			1			44505	44505	128	44100		MPEG audio file								\big_boy\LDU_Txk06tM
+Energy Drink	Virtual Riot		The Classics							4859444	303			1			44505	44505	128	44100		MPEG audio file								\big_boy\5IOVkstxkdE
+Endless	Fox Stevenson		Endless							4418070	280			1			44505	44505	128	44100		MPEG audio file								\big_boy\3aUzfeEAnpo
+Aunty Donna Theme	Aunty Donna, SUB-human		The Album							2647198	165			14			44505	44505	128	44100		MPEG audio file								\big_boy\qTOk6nIbE-k
+Anchor	Rob Scallon		Anchor EP (Tour Edition)							3712569	231			1			44505	44505	128	44100		MPEG audio file								\big_boy\wT5ut_AN4hY
+Massacre	Dodge & Fuski		The Greatest Album Of All Time							3213954	180			9			44505	44505	128	44100		MPEG audio file								\big_boy\J_MBmPAMnJ8
+600 Years	Far Too Loud		Firestorm EP							3810781	239			3			44505	44505	128	44100		MPEG audio file								\big_boy\_pX-INBwGW0
+Pray For Riddim	Virtual Riot		German Engineering EP							3515299	217			1			44505	44505	128	44100		MPEG audio file								\big_boy\3XrbWS5-5cU
+Blackout	Pegboard Nerds		Nerds by Nature - EP							3587600	212			6			44505	44505	128	44100		MPEG audio file								\big_boy\Z2ojmwTh130
+Confessions (feat. Cozi Zuehlsdorff)	MYRNE, Cozi Zuehlsdorff		Monstercat: Best of 2017							4160663	260			4			44505	44505	128	44100		MPEG audio file								\big_boy\_L7mS9Ce6SE
+Heaven Let Us Down (feat. Koda)	Pegboard Nerds, Koda		Monstercat: Best of 2017							5314223	331			1			44505	44505	128	44100		MPEG audio file								\big_boy\utzvh48K7yQ
+New Dawn	Bad Computer		Monstercat: Best of 2017							4929669	307			18			44505	44505	128	44100		MPEG audio file								\big_boy\hRVlBkJC-J0
+Go Berzerk	Pegboard Nerds, Quiet Disorder		Monstercat 030: Finale							3328068	207			3			44505	44505	128	44100		MPEG audio file								\big_boy\iprZ7Q5Jqjw
+THE DROP	Gammer		THE DROP							3715894	232			4			44505	44505	128	44100		MPEG audio file								\big_boy\1z4nE7_7vmc
+Levels - Skrillex Remix	Avicii, Skrillex		Levels (Remixes)							4500436	281			1			44505	44505	128	44100		MPEG audio file								\big_boy\MITA4FhVjDc
+Questions	Tristam		Questions							4005960	250			1			44505	44505	128	44100		MPEG audio file								\big_boy\LeVmlVQ9uQI
+Welcome to the Black Parade - Steve Aoki 10th Anniversary Remix	My Chemical Romance, Steve Aoki		Welcome to the Black Parade (Steve Aoki 10th Anniversary Remix)							3362853	210			1			44505	44505	128	44100		MPEG audio file								\big_boy\PHbEl9mqzRs
+Miss You	Fox Stevenson		For Fox Sake - EP							3729284	231			2			44505	44505	128	44100		MPEG audio file								\big_boy\-VJFIlQ_x8A
+Warp 1.9	The Bloody Beetroots, Steve Aoki		Romborama (Limited Australian Tour Edition)							3247840	203			10			44505	44505	128	44100		MPEG audio file								\big_boy\xlksFWCJbNc
+Strobe	Sparkee		Strobe							3511509	219			1			44505	44505	128	44100		MPEG audio file								\big_boy\KUAClgnh120
+Cold Hearted	Seven Lions, Kill The Noise		Cold Hearted							4369193	272			1			44505	44505	128	44100		MPEG audio file								\big_boy\zMT3ch_dMXE
+What's Going Down	Stonebank		What's Going Down							4421430	276			1			44505	44505	128	44100		MPEG audio file								\big_boy\dfvd03GHMBU
+X Buster	MDK		X Buster							3112776	193			1			44505	44505	128	44100		MPEG audio file								\big_boy\iXj4wR70Xf0
+Wake up, the House Is Underwater!	Stephen Walking		Wake up, the House Is Underwater!							3074385	191			1			44505	44505	128	44100		MPEG audio file								\big_boy\ZAg4WpyTklw
+Top of the World 2	Stephen Walking		Top of the World 2							3401617	212			1			44505	44505	128	44100		MPEG audio file								\big_boy\KqNiUmnZaAU
+Hipster Cutthroat	DotEXE		Hipster Cutthroat							4161456	260			1			44505	44505	128	44100		MPEG audio file								\big_boy\CCtTqbNir6Y
+Chokehold (feat. Concept)	Stonebank, Concept		Monument - EP							4226256	264			5			44505	44505	128	44100		MPEG audio file								\big_boy\etHVz3ybuTc
+My Cloud	Grabbitz		My Cloud							3009963	187			1			44505	44505	128	44100		MPEG audio file								\big_boy\WDiMcXp9R1M
+Bubbles	Tokyo Machine		Bubbles							3689567	230			1			44505	44505	128	44100		MPEG audio file								\big_boy\v1uSlrukwHY
+Paradigm	Bad Computer, Karra		Paradigm							3062637	191			1			44505	44505	128	44100		MPEG audio file								\big_boy\T6oBzaXk6Zk
+FLY	Tokyo Machine		FLY							3159169	197			1			44505	44505	128	44100		MPEG audio file								\big_boy\gHd2zpFZIYA
+Bulgogi	Fox Stevenson		Bulgogi							3479752	209			1			44505	44505	128	44100		MPEG audio file								\big_boy\_rydS3IBgoI
+She's a Killer	Justin OH		She's a Killer							2857421	190			1			44505	44505	128	44100		MPEG audio file								\big_boy\gfR2cvDPC10
+Continue	Virtual Riot		Continue							3819554	226			1			44505	44505	128	44100		MPEG audio file								\big_boy\x0Vcz_I9tjE
+Revelry	Milkman		Fragments							4503748	281			2			44505	44505	128	44100		MPEG audio file								\big_boy\woRYQz9-Vmg
+This Love (feat. Savoi)	LVTHER, Savoi		This Love (feat. Savoi)							2903000	181			1			44505	44505	128	44100		MPEG audio file								\big_boy\yFwA0ctwxCY
+Disarray	Bad Computer		Disarray							3962496	247			1			44505	44505	128	44100		MPEG audio file								\big_boy\Ak6ynwcCv1Q
+September	Conro		September							3430847	214			1			44505	44505	128	44100		MPEG audio file								\big_boy\VT9q8-i8e7Q
+Horsepower	MUZZ		Horsepower							3217688	291			1			44505	44505	128	44100		MPEG audio file								\big_boy\XKEfqi_XO_8
+None Trick Pony	CloudNone		None Trick Pony							3676623	229			1			44505	44505	128	44100		MPEG audio file								\big_boy\aJYgxasX_Qg
+Open Road Song	Eve 6		Eve 6							3170877	194			5			44505	44505	128	44100		MPEG audio file								\big_boy\pgrj_IXuEGY
+Brain Power - Re-mastered	NOMA		Brain Power							5886374	368			1			44505	44505	128	44100		MPEG audio file								\big_boy\cVP8D_FwPU8
+Atlantic	Rogue		Atlantic							4216190	263			1			44505	44505	128	44100		MPEG audio file								\big_boy\YTwema3-OTw
+Sleepy	MYLK		Sleepy							2896688	180			1			44505	44505	128	44100		MPEG audio file								\big_boy\fCBDj4EdM3o
+Mirage	Rogue		Mirage							4624114	288			1			44505	44505	128	44100		MPEG audio file								\big_boy\UMh8V--HxnI
+Jerk It Out	Caesars		Jerk It Out							3116965	195			1			44505	44505	128	44100		MPEG audio file								\big_boy\vxLQlWAtXuM
+Long Gone	Andrew Huang		Stars							3740139	233			2			44505	44505	128	44100		MPEG audio file								\big_boy\0HPUb_7k8lI
+Blaster	Andrew Huang		Blaster							2664312	166			1			44505	44505	128	44100		MPEG audio file								\big_boy\U5zlScsZWyU
+You'll Be Fine	Laszlo		You'll Be Fine							3134107	195			1			44505	44505	128	44100		MPEG audio file								\big_boy\k1utKdBSavo
+In Your Arms	Aiobahn, Ralph Larenzo		In Your Arms							3002461	187			1			44505	44505	128	44100		MPEG audio file								\big_boy\uPDjXJgGklM
+Brains On Fire	Dodge & Fuski		Brains On Fire							3733885	214			1			44505	44505	128	44100		MPEG audio file								\big_boy\5vqqOI-f7n8
+Summer	Modestep		Summer							2741211	171			1			44505	44505	128	44100		MPEG audio file								\big_boy\SXUB0KTWwHU
+Breakout	Noisestorm, Foreign Beggars		Breakout							2882504	181			1			44505	44505	128	44100		MPEG audio file								\big_boy\86zIPEa5GhI
+Hang Up	WRLD, Savoi		Hang Up							3194284	199			1			44505	44505	128	44100		MPEG audio file								\big_boy\WpPpuqieuSg
+Comeback	Falcon Funk, Bossfight		Comeback							3257408	203			1			44505	44505	128	44100		MPEG audio file								\big_boy\xft9wOGs8Us
+Rip N Dip - Kill The Noise Remix	Getter, Kill The Noise		Rip N Dip (Remixes)							4025652	251			1			44505	44505	128	44100		MPEG audio file								\big_boy\_Akhhtro6zc
+Next To Me	Lvly		Brand New (Helium)							3501909	218			2			44505	44505	128	44100		MPEG audio file								\big_boy\Zki-NMHoaIk
+Scatta (feat. Foreign Beggars & Bare Noize)	Skrillex, Bare Noize, Foreign Beggars		Scary Monsters and Nice Sprites (Deluxe Tour Edition)							3760726	234			5			44505	44505	128	44100		MPEG audio file								\big_boy\Nw-YjVp_ibQ
+Rock 'n' Roll (Will Take You to the Mountain)	Skrillex		Scary Monsters and Nice Sprites (Deluxe Tour Edition)							4615426	284			1			44505	44505	128	44100		MPEG audio file								\big_boy\iIyE3EDCigE
+Weekends!!! (feat. Sirah)	Skrillex, Sirah		Scary Monsters and Nice Sprites (Deluxe Tour Edition)							4583230	285			10			44505	44505	128	44100		MPEG audio file								\big_boy\6ngYQcxBjmU
+Death By Diamonds And Pearls	Band Of Skulls		Baby Darling Doll Face Honey							3093183	192			2			44505	44505	128	44100		MPEG audio file								\big_boy\B0Gvf9Z_lWI
+The Hardest Button To Button	The White Stripes		Elephant							3400783	212			9			44505	44505	128	44100		MPEG audio file								\big_boy\1DGX6HBR-XA
+Blue Orchid	The White Stripes		Get Behind Me Satan							2522645	158			1			44505	44505	128	44100		MPEG audio file								\big_boy\hkKSagYpf9A
+Sugar Rush	Pixl		Sugar Rush EP							4081613	285			1			44505	44505	128	44100		MPEG audio file								\big_boy\-WR0o7NWUy8
+Explosivo	Tenacious D		Tenacious D							1866015	115			7			44505	44505	128	44100		MPEG audio file								\big_boy\dlcaE25YF1w
+Chin up	R!OT, Xye		Chin up							4060293	253			1			44505	44505	128	44100		MPEG audio file								\big_boy\g8oDNbMvpn0
+R!ot	R!OT 		The Art of Bass							3948281	244			1			44505	44505	128	44100		MPEG audio file								\big_boy\EUnBJStd698
+Beat the Sunset	R!OT 		Beat the Sunset							2872047	179			1			44505	44505	128	44100		MPEG audio file								\big_boy\NETBeFhhuTs
+How I Feel	R!OT , Bonnie Magbitang		How I Feel							3604738	225			1			44505	44505	128	44100		MPEG audio file								\big_boy\OB_83gvIbJ8
+Slowly	R!OT 		Slowly							3308379	206			1			44505	44505	128	44100		MPEG audio file								\big_boy\rZPLJqCSmYM
+Kneel Before Me	SLANDER, Crankdat, Asking Alexandria		Kneel Before Me							3188891	201			1			44505	44505	128	44100		MPEG audio file								\big_boy\AxlXzpnH1bw
+Throne	Bring Me The Horizon		That's The Spirit (Track by Track Commentary)							3043446	190			6			44505	44505	128	44100		MPEG audio file								\big_boy\XEp3GTVuShw
+MANTRA	Bring Me The Horizon		MANTRA							3759371	233			1			44505	44505	128	44100		MPEG audio file								\big_boy\hvZxPWmnqeo
+Vantablack	Dirtyphonics, Sullivan King		Vantablack							4488725	265			1			44505	44505	128	44100		MPEG audio file								\big_boy\MLB8tSA2GFA
+wonderful life (feat. Dani Filth)	Bring Me The Horizon, Dani Filth		wonderful life (feat. Dani Filth)							4424828	274			1			44505	44505	128	44100		MPEG audio file								\big_boy\4hoDwVy6IQ4

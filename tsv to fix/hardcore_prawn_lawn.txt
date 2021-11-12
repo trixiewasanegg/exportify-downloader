@@ -1,0 +1,9 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Pretty Rave Girl (Suae X Technikore Remix)	S3RL, Suae, Technikore		Pretty Rave Girl (Suae X Technikore Remix)							2584144	160			1			44505	44505	128	44100		MPEG audio file								\hardcore_prawn_lawn\HQciBSo_jWU
+Rainbow Road	nanobii		Rainbow Road							2783436	173			1			44505	44505	128	44100		MPEG audio file								\hardcore_prawn_lawn\a0Aauep0VWs
+Us Against the World	Darren Styles		Us Against the World							4339520	271			1			44505	44505	128	44100		MPEG audio file								\hardcore_prawn_lawn\ikIXmUUumjg
+The Munsta	SCNDL		The Munsta							3991750	249			1			44505	44505	128	44100		MPEG audio file								\hardcore_prawn_lawn\R2fGhuD3nP4
+Party Don't Stop	Darren Styles, Dougal, Gammer		Monstercat Uncaged Vol. 2							3159638	197			13			44505	44505	128	44100		MPEG audio file								\hardcore_prawn_lawn\6ed0N-5zLW8
+Bass Drop	Zero Hero		Monstercat Uncaged, Vol. 1							2976546	186			17			44505	44505	128	44100		MPEG audio file								\hardcore_prawn_lawn\1-19xoOWsgQ
+Switch	Darren Styles		Switch							3937415	220			1			44505	44505	128	44100		MPEG audio file								\hardcore_prawn_lawn\imy9KosnQDw
+Never Let Me Down	Darren Styles, David Spekter		Never Let Me Down							3055976	190			1			44505	44505	128	44100		MPEG audio file								\hardcore_prawn_lawn\yRTD0MytOEk

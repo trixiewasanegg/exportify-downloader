@@ -1,0 +1,17 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Urges - The Kite String Tangle Remix	Lastlings, The Kite String Tangle									3169704	99.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Lastlings, The Kite String Tangle/Urges (The Kite String Tangle Remix)/01 Urges - The Kite String Tangle Remix.mp3
+Worship	Golden Features									3907326	122.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Golden Features/Worship/01 Worship.mp3
+Notorious	Malaa									4341162	135.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Malaa/Notorious/01 Notorious.mp3
+raingurl	Yaeji									3797395	118.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Yaeji/raingurl/01 raingurl.mp3
+Do You?	Golden Features									4775842	148.5			4			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Golden Features/XXIV/04 Do You?.mp3
+Pregnant	Malaa									4129254	128.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Malaa/Pregnant/01 Pregnant.mp3
+Diamonds	Malaa									4011390	125.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Malaa/Diamonds/01 Diamonds.mp3
+//DDoS	i_o									3726342	116.0			2			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/i_o/ANALOG//DDoS/02 //DDoS.mp3
+Deep Down Low	Valentino Khan									3053864	95.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Valentino Khan/Deep Down Low/01 Deep Down Low.mp3
+Heaven	Drezo									4246697	132.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Drezo/Heaven/01 Heaven.mp3
+Prophecy	Tchami, Malaa									4456106	139.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Tchami, Malaa/Prophecy/01 Prophecy.mp3
+Drop That	Loge21									3872630	120.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Loge21/Drop That/01 Drop That.mp3
+Horse	Salvatore Ganacci									2668911	86.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Salvatore Ganacci/Horse/01 Horse.mp3
+I Want You	Chris Lake									3697094	124.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Chris Lake/I Want You/01 I Want You.mp3
+Bass Inside	AC Slater									4226231	132.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/AC Slater/Bass Inside/01 Bass Inside.mp3
+Poison	Klaus Veen									3070159	95.5			2			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Klaus Veen/Lekker Setje Beats/02 Poison.mp3

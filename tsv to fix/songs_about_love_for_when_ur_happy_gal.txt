@@ -1,0 +1,21 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Endless	Fox Stevenson		Endless							4418070	280			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\3aUzfeEAnpo
+Friends Again	LVTHER, Claire Ridgely		Monstercat Instinct Vol. 1							3144165	196			23			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\qPmMqCte7ms
+About U	Aiobahn, Vin		About U							2809762	175			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\uSRLEoBqVQg
+This Love (feat. Savoi)	LVTHER, Savoi		This Love (feat. Savoi)							2903000	181			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\yFwA0ctwxCY
+In Your Arms	Aiobahn, Ralph Larenzo		In Your Arms							3002461	187			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\uPDjXJgGklM
+Canvas	Rezonate		Monstercat 016 - Expedition							6331501	395			22			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\i0Ew3cl1gyc
+Some Kind of Magic (feat. MYZICA)	LVTHER, Myzica		Monstercat 027 - Cataclysm							3110740	194			14			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\SzWk_I304Sg
+Where I'll Be Waiting (feat. Cozi Zuehlsdorff)	Rich Edwards, Cozi Zuehlsdorff		Where I'll Be Waiting (feat. Cozi Zuehlsdorff)							3097414	193			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\ewBulJdtGlM
+Love Back on (feat. Emelie Cyréus)	Summer Was Fun, Emelie Cyréus		Love Back On (feat. Emelie Cyréus)							3382028	211			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\fkR4VdmjmiI
+Otter Pop	Shawn Wasabi, Hollis		Otter Pop							2685640	167			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\tGmUMeuVhRA
+Are We Flirting	Abbe May		Fruit							2935988	183			9			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\0Q6YBaKIgpo
+Are We Still Young (feat. Jessi Mason)	Grant, Jessi Mason		Are We Still Young (feat. Jessi Mason)							3459339	216			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\3SDJljtLa84
+Pay No Mind (feat. Passion Pit)	Madeon, Passion Pit		Adventure (Deluxe)							3986777	249			5			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\BC_Ya4cY8RQ
+One Look (feat. Mammals)	LVTHER, Mammals		One Look (feat. Mammals)							3787406	236			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\RJOkI8k_VU0
+We Are the Dream (TheFatRat Remix)	Sound Remedy, Carousel		We Are the Dream the Remixes							3875198	242			3			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\f2_S5zAPPGw
+Juliet	CloudNone, Matt Van		Midnight Underground							3779029	236			5			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\M3bkd2_uGJ0
+Tear in My Heart	Twenty One Pilots		Blurryface							3098171	188			5			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\uzm-6Fc9j5g
+Wishes	Grant, McCall		Wishes							3927384	241			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\gjdbB1of3_I
+bad idea!	girl in red		bad idea!							3524893	219			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\eGAIqkjAtUQ
+Nuestra Canción	Monsieur Periné, Vicente Garcia		Caja de Música							4127213	260			1			44505	44505	128	44100		MPEG audio file								\songs_about_love_for_when_ur_happy_gal\-6WLZIPaleo

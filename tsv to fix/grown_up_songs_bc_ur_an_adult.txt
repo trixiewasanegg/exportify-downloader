@@ -1,0 +1,11 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Taxi Cab	Twenty One Pilots		Twenty One Pilots							4573566	285			12			44505	44505	128	44100		MPEG audio file								\grown_up_songs_bc_ur_an_adult\M2wB0skdJ5o
+Eat That Up, It's Good For You	Two Door Cinema Club		Tourist History							3584280	223			9			44505	44505	128	44100		MPEG audio file								\grown_up_songs_bc_ur_an_adult\G8wZmm9wxz8
+Cigarettes In The Theatre	Two Door Cinema Club		Tourist History							3418345	213			1			44505	44505	128	44100		MPEG audio file								\grown_up_songs_bc_ur_an_adult\1GO2UEM9CuA
+You Are Not Stubborn	Two Door Cinema Club		Tourist History							3050536	190			10			44505	44505	128	44100		MPEG audio file								\grown_up_songs_bc_ur_an_adult\w8GFWEOw0ts
+Undercover Martyn	Two Door Cinema Club		Tourist History							2789308	166			7			44505	44505	128	44100		MPEG audio file								\grown_up_songs_bc_ur_an_adult\2xbhPb7sxik
+What You Know	Two Door Cinema Club		Tourist History							3071009	189			8			44505	44505	128	44100		MPEG audio file								\grown_up_songs_bc_ur_an_adult\YXwYJyrKK5A
+Talk - Single Edit	Two Door Cinema Club		Satellite							3465561	216			2			44505	44505	128	44100		MPEG audio file								\grown_up_songs_bc_ur_an_adult\MCO_Op_ziig
+Tear in My Heart	Twenty One Pilots		Blurryface							3098171	188			5			44505	44505	128	44100		MPEG audio file								\grown_up_songs_bc_ur_an_adult\uzm-6Fc9j5g
+Sun	Two Door Cinema Club		Beacon (Deluxe Version)							2991594	187			4			44505	44505	128	44100		MPEG audio file								\grown_up_songs_bc_ur_an_adult\sKyK1Mme9Sc
+Dirty Air	Two Door Cinema Club		Dirty Air							3628556	243			1			44505	44505	128	44100		MPEG audio file								\grown_up_songs_bc_ur_an_adult\cxn4egRWjVA

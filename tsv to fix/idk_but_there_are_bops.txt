@@ -1,0 +1,25 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Friends Again	LVTHER, Claire Ridgely		Monstercat Instinct Vol. 1							0	196			23			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\qPmMqCte7ms
+Hurts Just Right	BRAINCOATS		Hurts Just Right/Can't Have You							0	170			1			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\AiO09kWgJd4
+Fiji Water	Owl City		Cinematic							0	260			1			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\DYRtvMIWXzE
+White Knuckles	OK Go		Of The Blue Colour of the Sky Extra Nice Edition							0	198			6			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\nHlJODYBLKs
+Needing/Getting	OK Go		Of The Blue Colour of the Sky Extra Nice Edition							0	313			4			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\MejbOFk7H6c
+Juliet	CloudNone, Matt Van		Midnight Underground							0	236			5			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\M3bkd2_uGJ0
+Cosby Sweater	Hilltop Hoods		Walking Under Stars							0	217			3			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\ugLjtNOFzmU
+Devotion	Tristam		Monstercat - Best of 2016							0	316			14			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\8RTR1Ag0rhQ
+Good Time	Owl City, Carly Rae Jepsen		The Midsummer Station							0	205			7			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\7yeA2P1W9dg
+"When Can I See You Again? - From ""Wreck-It Ralph""/Soundtrack Version"	Owl City		Wreck-It Ralph							0	218			1			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\fpnUrPUlJXY
+Shooting Star	Owl City		The Midsummer Station							0	247			2			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\VIZgdbdo__s
+Another Set of Issues	OK Go		Hungry Ghosts							0	237			3			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\Wnaz-JhKRSM
+I'm Not Through	OK Go		Hungry Ghosts							0	216			6			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\47PDFwMcplw
+Woman	Wolfmother		Wolfmother							0	176			3			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\AL_ThUaLr68
+Some Kind of Magic (feat. MYZICA)	LVTHER, Myzica		Some Kind of Magic (feat. MYZICA)							0	194			1			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\SzWk_I304Sg
+Questions	Tristam		Questions							0	250			1			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\LeVmlVQ9uQI
+Fireflies	Owl City		Ocean Eyes							0	228			9			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\vleiK4n75mQ
+Pay No Mind (feat. Passion Pit)	Madeon, Passion Pit		Adventure (Deluxe)							0	249			5			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\BC_Ya4cY8RQ
+Amsterdam	Nothing But Thieves		Broken Machine (Deluxe)							0	272			2			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\BOKiCNOrkes
+Old Friends	Half an Orange, Blonde Maze		Mostly We Grow Pt. 1							0	201			1			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\R8KrEo_tuYM
+Hang Up	WRLD, Savoi		Hang Up							0	199			1			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\WpPpuqieuSg
+Time Well Spent	LVTHER, Ayelle		Time Well Spent							0	184			1			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\fBsNIJLj0Gs
+Daggers	SLUMBERJACK, Machine Age		SARAWAK							3700863	231			1			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\001uWIiubDs
+Automagic	Televisor		Monstercat - The Best of 2013							3665346	228			20			44505	44505	128	44100		MPEG audio file								\idk_but_there_are_bops\W9fUYmlqNV8

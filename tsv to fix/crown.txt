@@ -1,0 +1,12 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Rules	Doja Cat		Hot Pink							3010378	187			3			44505	44505	128	44100		MPEG audio file								\crown\eCj67oq6k68
+STUPID (feat. Yung Baby Tate)	Ashnikko, Baby Tate		Hi, It's Me							2679392	167			3			44505	44505	128	44100		MPEG audio file								\crown\jjSUOKoTzh4
+Boss Bitch	Doja Cat		Boss Bitch							2163599	134			1			44505	44505	128	44100		MPEG audio file								\crown\juUJpNN-suU
+WAP (feat. Megan Thee Stallion)	Cardi B, Megan Thee Stallion		WAP (feat. Megan Thee Stallion)							3007103	187			1			44505	44505	128	44100		MPEG audio file								\crown\Wc5IbN4xw70
+Daisy	Ashnikko		Daisy							2337042	146			1			44505	44505	128	44100		MPEG audio file								\crown\viOphn9jZtA
+Cry (feat. Grimes)	Ashnikko		Cry (feat. Grimes)							2010642	126			1			44505	44505	128	44100		MPEG audio file								\crown\pssWSj42t8M
+3 Musketeers	NextYoungin, ppcocaine		3 Musketeers							2667258	166			1			44505	44505	128	44100		MPEG audio file								\crown\GfmcApqUt9k
+stupid horse	100 gecs, Laura Les, Dylan Brady		1000 gecs							1948793	121			5			44505	44505	128	44100		MPEG audio file								\crown\9YO5ruvFSCU
+money machine	100 gecs, Laura Les, Dylan Brady		1000 gecs							2407713	114			2			44505	44505	128	44100		MPEG audio file								\crown\z97qLNXeAMQ
+DDLG	ppcocaine		DDLG							2485417	155			1			44505	44505	128	44100		MPEG audio file								\crown\6xTRwVjTEE4
+Girls In Bikinis	Poppy		Am I A Girl?							2325772	145			9			44505	44505	128	44100		MPEG audio file								\crown\6JgG8fZAlu0

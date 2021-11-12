@@ -1,0 +1,9 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Bonkers	Dizzee Rascal									5103531	88.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Dizzee Rascal/Tongue N' Cheek/01 Bonkers.mp3
+Fatty Boom Boom	Die Antwoord									5476768	112.5			5			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Die Antwoord/Ten$ion/05 Fatty Boom Boom.mp3
+Hot	FWLR									2730752	85.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/FWLR/Hot/01 Hot.mp3
+Carry On	F.O.O.L, Holly Drummond									4443578	138.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/F.O.O.L, Holly Drummond/Carry On/01 Carry On.mp3
+Adventures	Julian Calor									3818722	119.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Julian Calor/Adventures/01 Adventures.mp3
+Daggers	SLUMBERJACK, Machine Age									3700863	115.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/SLUMBERJACK, Machine Age/SARAWAK/01 Daggers.mp3
+PLAY	Tokyo Machine									2946430	91.5			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Tokyo Machine/PLAY/01 PLAY.mp3
+Bassline Junkie	Dizzee Rascal									3209368	101.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Dizzee Rascal/Dizzee Rascal Presents DirteeTV.com/01 Bassline Junkie.mp3

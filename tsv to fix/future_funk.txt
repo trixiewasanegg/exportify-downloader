@@ -1,0 +1,100 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Sparky (Original)	Luanmer		Sunrise							2558574	148			5			44505	44505	128	44100		MPEG audio file								\future_funk\HqyHLeHMOVo
+Dizzy Dream	Rhodes Rodosu		Dizzy Dream							2735374	170			1			44505	44505	128	44100		MPEG audio file								\future_funk\SynmxRJQRfU
+Positive	Shiruetto		Positive							3481840	217			1			44505	44505	128	44100		MPEG audio file								\future_funk\YemGDP-3PgM
+Work	BarbWalters		Work							3221863	201			1			44505	44505	128	44100		MPEG audio file								\future_funk\9GcqLYt9xb4
+High Roller	Remlarr		High Roller							3154582	197			1			44505	44505	128	44100		MPEG audio file								\future_funk\sF-u2ZZFooM
+Wonka Street	Iden Kai		Wonka Street							3748922	234			1			44505	44505	128	44100		MPEG audio file								\future_funk\MW54S9IvT8g
+Fuel injection	Cape Coral		TELESEX555							2180742	136			1			44505	44505	128	44100		MPEG audio file								\future_funk\MrY6Uend6l0
+Mizuiro no Ame (Night Tempo Showa Groove Mix)	Night Tempo, Junko Yagami		Night Tempo present							3842184	240			2			44505	44505	128	44100		MPEG audio file								\future_funk\d1OoZchilLY
+TIMERIDER 1983	Adrianwave		TIMERIDER 1983							3020008	188			3			44505	44505	128	44100		MPEG audio file								\future_funk\m_mzCQe4Ga8
+Fun Tonight	Macross 82-99		CHAM!							2601204	162			13			44505	44505	128	44100		MPEG audio file								\future_funk\IgQEefhmPXI
+Glimmer	AGST		Glimmer / Change							3443807	215			1			44505	44505	128	44100		MPEG audio file								\future_funk\d6SQb0WTrlA
+You Know It's True	CHANCE		Just Have Fun							4552663	284			2			44505	44505	128	44100		MPEG audio file								\future_funk\VVPag_IzI-Q
+Gotta Go Crazy	acidente		Barbershop Weekend							3073926	192			6			44505	44505	128	44100		MPEG audio file								\future_funk\fIOVy8ZWIqk
+Hoeing Mood	Jesse Cassettes		Miss Cassettes, Vol. 1 (+Bonus Tracks)							3631926	226			1			44505	44505	128	44100		MPEG audio file								\future_funk\FCdAsNXcFl0
+SNS	Tsundere Alley, yuca		SNS							2553553	159			1			44505	44505	128	44100		MPEG audio file								\future_funk\BEwqALmTYtU
+Get Up	Bionsen		Do It Again EP							3779011	236			1			44505	44505	128	44100		MPEG audio file								\future_funk\jXNNaFCaLYA
+Paradise City	Pop Up!		Flavored							3034208	189			5			44505	44505	128	44100		MPEG audio file								\future_funk\xATTkS5Lwb0
+Ganbare	TANUKI		Kanji Title							17695794	183			1			44505	44505	128	44100		MPEG audio file								\future_funk\HsCRVPM2ogM
+City Nightlife - Original Mix	architecture in tokyo, Macross 82-99		Royal Club, Vol. 3							3457656	216			16			44505	44505	128	44100		MPEG audio file								\future_funk\oO3T0Ve_iPo
+WNTUMORE	Hatena		Wntumore							1985543	124			1			44505	44505	128	44100		MPEG audio file								\future_funk\JXCxrlqiyAQ
+CHERRY BLOSSOMS	Javi That's Me		SOUL MATES							2385547	149			4			44505	44505	128	44100		MPEG audio file								\future_funk\tZDWMdTUdd4
+Plastic	Tendencies		Waterbed (Deluxe)							3123658	195			7			44505	44505	128	44100		MPEG audio file								\future_funk\jq0dFxLuLxo
+Mode	ev.exi		Remember							3725085	232			3			44505	44505	128	44100		MPEG audio file								\future_funk\NLz_bOBM3fE
+Right on Time	Vantage		J-Funk City : Vantage's Edits Collection							3354397	209			2			44505	44505	128	44100		MPEG audio file								\future_funk\QUpcsFx-i_k
+Mirai No Fanku	Shades of Thunder, Powernerd, Edictum		Mirai No Fanku							3876015	242			1			44505	44505	128	44100		MPEG audio file								\future_funk\sgcvlg3wMr8
+uwbfc	UniBe@t		too embarrassed to show my friends my music							3001634	187			1			44505	44505	128	44100		MPEG audio file								\future_funk\TiisvTXSRMw
+Funk Express	Proux		Back By Popular Demand							1511594	110			4			44505	44505	128	44100		MPEG audio file								\future_funk\movrGGppehQ
+This Is It	Yung Bae		B4E							2760856	172			5			44505	44505	128	44100		MPEG audio file								\future_funk\RXPp2P5lhcg
+Dance Dance Cochayuyo!	Cabro Artico		Dance Dance Cochayuyo!							2687748	167			1			44505	44505	128	44100		MPEG audio file								\future_funk\2PjRJj0XW44
+Jo	Mr. Oizo		Lambs Anger							2191358	136			8			44505	44505	128	44100		MPEG audio file								\future_funk\2f5O7JDJ43s
+Galetus	ev.exi, Mere Notilde		Galetus							3316337	207			1			44505	44505	128	44100		MPEG audio file								\future_funk\JsejKKgm1y4
+Bbrown	BarbWalters		Pleasure							3504827	218			1			44505	44505	128	44100		MPEG audio file								\future_funk\UISrVPsmUdQ
+Sweet Baby!	Mere Notilde		Sweet Baby!							2450743	153			1			44505	44505	128	44100		MPEG audio file								\future_funk\p7Vw_KVKZKQ
+Waterbed	Tendencies		Waterbed							2841109	177			3			44505	44505	128	44100		MPEG audio file								\future_funk\SaYPgfBVBHg
+NOTFAIR	Hatena		HANDZ							4497473	280			8			44505	44505	128	44100		MPEG audio file								\future_funk\QeSH3qKvm4M
+Welcome to the Disco	Yung Bae, Macross 82-99		Bae 5							3084801	195			11			44505	44505	128	44100		MPEG audio file								\future_funk\VV4-ZgAfCP8
+Ritmo.	Cape Coral, Android Apartment		Slowed Midnight							2493809	155			3			44505	44505	128	44100		MPEG audio file								\future_funk\KCi58MNVDxI
+Stellae	ev.exi, Rhodes Rodosu		Stellae							3684142	230			1			44505	44505	128	44100		MPEG audio file								\future_funk\LBlTwuIKnPk
+Disco Dad	Lando Burch		Disco Dad							4809282	300			2			44505	44505	128	44100		MPEG audio file								\future_funk\PKjIHucwgTQ
+Mahou Shoujo	GHOST DATA		Blatant Plagiarism							2410625	150			2			44505	44505	128	44100		MPEG audio file								\future_funk\cVz7SJMQAbY
+Roses	BarbWalters		Roses							3841698	240			1			44505	44505	128	44100		MPEG audio file								\future_funk\O3ngGadBKcs
+Selfish High Heels (feat. Macross 82-99 & Harrison)	Yung Bae, Macross 82-99, Harrison		Selfish High Heels (feat. Macross 82-99 & Harrison)							3619040	226			1			44505	44505	128	44100		MPEG audio file								\future_funk\cb9n8f4k2fE
+Nouvel alan	FIBRE		Fibre 2014 - 2016							2997015	187			3			44505	44505	128	44100		MPEG audio file								\future_funk\DqpXW9x14zQ
+Sunset On The Shore	Android Apartment		DaFuture Is Now							2744586	171			2			44505	44505	128	44100		MPEG audio file								\future_funk\yihASKFMRcs
+Sonic Boom	ED., Strawberry Station		Sonic Boom							3507771	219			1			44505	44505	128	44100		MPEG audio file								\future_funk\WJYIFJvGsAA
+Lovin' You	BarbWalters, ev.exi		Lovin' You							3659068	228			1			44505	44505	128	44100		MPEG audio file								\future_funk\WwvThXJy-qI
+DUCK GROOVE	Aests		DUCK GROOVE							2281463	142			1			44505	44505	128	44100		MPEG audio file								\future_funk\fTPD8ppN4g8
+Want To Be Free	CHANCE		Afterparty							4027282	251			1			44505	44505	128	44100		MPEG audio file								\future_funk\mLuxpSRTw-A
+Yatsuro Tamashita	Desired		Yatsuro Tamashita							2641758	165			1			44505	44505	128	44100		MPEG audio file								\future_funk\irdAkuF1iNQ
+Looking for Loving	Strawberry Station		Smoothie Sounds							3272050	204			4			44505	44505	128	44100		MPEG audio file								\future_funk\9mcbadXP0Q4
+Yours	Hopeful Romantics		Lovelust							4027699	251			11			44505	44505	128	44100		MPEG audio file								\future_funk\XefSAqlBAY0
+Girl Like You	BarbWalters		Girl Like You							3225225	201			1			44505	44505	128	44100		MPEG audio file								\future_funk\UtGtDnMhJXg
+Just a Little	Amherst		Kudatah, Vol. 1							3101925	193			10			44505	44505	128	44100		MPEG audio file								\future_funk\QdKZ5Mqa0Mc
+Take Me Back to Shinjuku	Groovy Kaiju		Take Me Back to Shinjuku							3756056	234			1			44505	44505	128	44100		MPEG audio file								\future_funk\eoXCWdY1q7A
+DAILY ILLEGAL ANIME CONSUMPTION PT.1	AnTgry		DAILY ILLEGAL ANIME CONSUMPTION PT.1							2279842	142			1			44505	44505	128	44100		MPEG audio file								\future_funk\zCPumMB_UPQ
+Starlight	Andora		Starlight							2942671	183			1			44505	44505	128	44100		MPEG audio file								\future_funk\EHXpQZpKrCY
+NeoVintage	Saa		NeoVintage							2524293	213			1			44505	44505	128	44100		MPEG audio file								\future_funk\3j5lR-NeFBw
+The Only One	FIBRE, Discandy		The Only One / Don't Stop Me							2689419	168			1			44505	44505	128	44100		MPEG audio file								\future_funk\5eBtSw2MNSA
+Unlimited	Mere Notilde		Unlimited							2789286	174			1			44505	44505	128	44100		MPEG audio file								\future_funk\hlNw6w6rpDU
+Tokyo	Night Tempo		Funk to the Future							3329711	208			6			44505	44505	128	44100		MPEG audio file								\future_funk\33TVwo00j8I
+You Can't Run	ev.exi, Lavera		You Can't Run							3220212	201			1			44505	44505	128	44100		MPEG audio file								\future_funk\x8n1iR7-NyA
+Cash Wednesday	Skylar Spence		Prom King							2415637	150			10			44505	44505	128	44100		MPEG audio file								\future_funk\YYwiO_tGmT0
+Hot Chance	Skule Toyama		Sexy Times (3rd Anniversary Edition)							3603081	225			2			44505	44505	128	44100		MPEG audio file								\future_funk\hTVl2HEYCb4
+This Is Just a Test	UniBe@t		This Is Just a Test							5812400	363			1			44505	44505	128	44100		MPEG audio file								\future_funk\yhB7xc8yQh4
+Prysm	Rhodes Rodosu		Textures							4013067	250			1			44505	44505	128	44100		MPEG audio file								\future_funk\199ecM1x9bw
+Ultra 45 - Original Mix	DJ Eq		Ultra 45							4685991	292			1			44505	44505	128	44100		MPEG audio file								\future_funk\jxs-4dyhO5I
+Frosh - Radio Edit	Kue		Frosh EP							1982624	123			3			44505	44505	128	44100		MPEG audio file								\future_funk\l0pjhBBEd4o
+Brighter Days	Macross 82-99		Brighter Days							1991411	124			1			44505	44505	128	44100		MPEG audio file								\future_funk\ptTWs8l_j20
+Hear What They Say	Mélonade, Tsundere Alley		Splash!							3062236	191			2			44505	44505	128	44100		MPEG audio file								\future_funk\-bP6m0ogthc
+Talk to Me	3d Blast, FrankJavCee		Iconic Bitch							3636502	227			9			44505	44505	128	44100		MPEG audio file								\future_funk\jwLajdPEooQ
+Future Funk 2021	Strawberry Station		Future Funk 2021							2971536	185			1			44505	44505	128	44100		MPEG audio file								\future_funk\xg_kliowe7k
+Bounce Is Back	Skylar Spence		Prom King							3371091	210			7			44505	44505	128	44100		MPEG audio file								\future_funk\szVMRMpSzks
+Palm Road	AnTgry		Road Trip							2776323	173			2			44505	44505	128	44100		MPEG audio file								\future_funk\CRYT7e2zPEQ
+Central City	Maitro		Dragonball Wave II							2797233	176			4			44505	44505	128	44100		MPEG audio file								\future_funk\Yd6iE58xafw
+Shall We Dance?	Iden Kai		Summer 99							2421902	151			5			44505	44505	128	44100		MPEG audio file								\future_funk\ROoF-fkbQX4
+Rat Castle (Skylar Spence Remix)	glass beach, Skylar Spence		alchemist rats beg bashful (remixes)							3236567	202			13			44505	44505	128	44100		MPEG audio file								\future_funk\BY2njbaKjxo
+Radiant Memories	TANUKI		Kanji Title							3234416	199			4			44505	44505	128	44100		MPEG audio file								\future_funk\ECeB9RbeWVs
+Square Two	RobClemz		Square Two							3748083	228			1			44505	44505	128	44100		MPEG audio file								\future_funk\ZTvQQRwLAiM
+Love Affair	Chevron		Love Affair							3542030	221			1			44505	44505	128	44100		MPEG audio file								\future_funk\H6I9M7TFrZw
+Begin2touch	Hatena		Parader							3949953	246			4			44505	44505	128	44100		MPEG audio file								\future_funk\GEmzjKWTBrg
+Answer	Pop Up!		Notilde Tapes, Vol. 1							3698351	230			3			44505	44505	128	44100		MPEG audio file								\future_funk\3rN6n8EleIs
+Meta	Xalaxia		Meta							3810763	238			1			44505	44505	128	44100		MPEG audio file								\future_funk\gvU0IpLEVIU
+Like My Love	Tsundere Alley		Welcome To The Alley							2789720	161			3			44505	44505	128	44100		MPEG audio file								\future_funk\1QiuzwcbdOE
+Better Ways	Cape Coral		Karma Cleaning							3684142	230			6			44505	44505	128	44100		MPEG audio file								\future_funk\suDyRIy_BKE
+Laser Beams	Remlarr		Edges							4097491	256			5			44505	44505	128	44100		MPEG audio file								\future_funk\vDZ674M4yXs
+Crazy Nights	Future Girlfriend Music		Pink Dance EP							2459116	153			4			44505	44505	128	44100		MPEG audio file								\future_funk\qHrwyxh1eEM
+Dancing All Night	Vantage, Macross 82-99		Sendagi Collection							3779041	235			2			44505	44505	128	44100		MPEG audio file								\future_funk\Kux4Cxk-u84
+Starcatcher	Superflat		Junky Memorabilia							3306309	225			7			44505	44505	128	44100		MPEG audio file								\future_funk\WHCJYO_8yjI
+Stay	Chevron		Stay							2866176	179			1			44505	44505	128	44100		MPEG audio file								\future_funk\FEl2DeADIRw
+Knights	Bazz		Montaime, Vol. 1							5913528	369			11			44505	44505	128	44100		MPEG audio file								\future_funk\fYRJkda6CTs
+Archangel-99	Chrylo, Loser//99		Archangel-99							3421669	213			1			44505	44505	128	44100		MPEG audio file								\future_funk\OpEb7s6qfdg
+Daydream	Versiple		Daydream							4852327	303			1			44505	44505	128	44100		MPEG audio file								\future_funk\KeNUpsHMlBc
+Funk Dust	K/92		Dusty Shelves							2121383	132			9			44505	44505	128	44100		MPEG audio file								\future_funk\T3wzA_P51IE
+Rainbow Badge	Neon95		Pokéwave III							3351863	208			1			44505	44505	128	44100		MPEG audio file								\future_funk\G-prhEYLfTk
+Garment	Nukumachi		Retrospect							2251369	140			4			44505	44505	128	44100		MPEG audio file								\future_funk\jwH7V6LetkU
+Groovin'	Flamingosis, Yung Bae		Kahunastyle							3418325	213			3			44505	44505	128	44100		MPEG audio file								\future_funk\UiLQo2KIleE
+Something About You	Amherst		Heat.wav							3841711	240			6			44505	44505	128	44100		MPEG audio file								\future_funk\d66aGKowseE
+You and I	Chevron		Renaissance							3267429	204			5			44505	44505	128	44100		MPEG audio file								\future_funk\2UU7Nough5w
+Lynx	Rhodes Rodosu		Lynx							3935739	245			1			44505	44505	128	44100		MPEG audio file								\future_funk\vkCFMCsEIuU

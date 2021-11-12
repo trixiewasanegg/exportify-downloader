@@ -1,0 +1,89 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Hunted (feat. Jonny Rose)	Priority One & TwoThirds, Jonny Rose		Hunted (feat. Jonny Rose)							4237571	264			1			44505	44505	128	44100		MPEG audio file								\workout\F7Uz_XD3Lhk
+Riding The Storm	MUZZ		Monstercat 004 - Identity							4370859	273			5			44505	44505	128	44100		MPEG audio file								\workout\H13N2rX5jFc
+Too Simple	Tristam, Stephen Walking		Monstercat 008 - Anniversary							4350396	271			17			44505	44505	128	44100		MPEG audio file								\workout\0lG1BBQ9gQA
+Pressure Cooker	Pegboard Nerds		Monstercat 008 - Anniversary							3137891	194			6			44505	44505	128	44100		MPEG audio file								\workout\X5VJX9kYf3Q
+Surge (Drum & Bass Mix)	Noisestorm		Surge							8274591	249			2			44505	44505	128	44100		MPEG audio file								\workout\GTpTlndFAvg
+Time Bomb (feat. Veela)	Feint, Boyinaband, Veela		Monstercat 007 - Solace							3390352	211			1			44505	44505	128	44100		MPEG audio file								\workout\v7BddpYYNGk
+Razor Sharp	Pegboard Nerds, Tristam		Razor Sharp							4505024	281			1			44505	44505	128	44100		MPEG audio file								\workout\oM5Gv3EFQD0
+Ampersand	Stephen Walking, Soulero		Monstercat Best of Electro, Vol. 1.							4749971	296			4			44505	44505	128	44100		MPEG audio file								\workout\7VFOzeRnF64
+Stronger (feat. Emel)	Stonebank, EMEL		Stronger (feat. Emel)							5128213	320			1			44505	44505	128	44100		MPEG audio file								\workout\I1NuCWfYeYc
+Bring Me Joy	Pegboard Nerds, lug00ber		Bring Me Joy							4393432	274			1			44505	44505	128	44100		MPEG audio file								\workout\xi3HqeyniPg
+Bring It Back	Dodge & Fuski		Disciple Alliance, Vol. 3							3025454	188			3			44505	44505	128	44100		MPEG audio file								\workout\D3Z-TOHsaqU
+20K	Pegboard Nerds		The Lost Tracks							3788629	236			3			44505	44505	128	44100		MPEG audio file								\workout\BuHwfOvA24U
+The Munsta	SCNDL		The Munsta							3991750	249			1			44505	44505	128	44100		MPEG audio file								\workout\R2fGhuD3nP4
+Bruises	Fox Stevenson		Bruises (Destinations)							3534519	220			1			44505	44505	128	44100		MPEG audio file								\workout\sFCpqrMMQGM
+We Are One	Flite		We Are One							3702940	231			1			44505	44505	128	44100		MPEG audio file								\workout\y1GxPWwfbMA
+High Roller - Dodge & Fuski Remix	Pegboard Nerds, SPLITBREED		High Roller Remixes							3092773	192			1			44505	44505	128	44100		MPEG audio file								\workout\sI1oeMIXVEQ
+BADBOI	Pegboard Nerds		BADBOI							2821465	190			1			44505	44505	128	44100		MPEG audio file								\workout\paq7PCOTJck
+Us Against the World	Darren Styles		Us Against the World							4339520	271			1			44505	44505	128	44100		MPEG audio file								\workout\ikIXmUUumjg
+In the Night	MUZZ, Sullivan King		The Cascade EP							4282251	267			3			44505	44505	128	44100		MPEG audio file								\workout\qpChrUKFhx8
+Atlantic	Rogue		Atlantic							4216190	263			1			44505	44505	128	44100		MPEG audio file								\workout\YTwema3-OTw
+Party Don't Stop	Darren Styles, Dougal, Gammer		Party Don't Stop							3159629	197			1			44505	44505	128	44100		MPEG audio file								\workout\6ed0N-5zLW8
+Self Destruct	Pegboard Nerds		Monstercat 010 - Conquest							3402872	212			12			44505	44505	128	44100		MPEG audio file								\workout\D2RJBmhTCdY
+Helan gor	Kul Ju		Helan gor							2754172	172			1			44505	44505	128	44100		MPEG audio file								\workout\YJA-SPYIGEs
+Titans	Razihel, Aero Chord		Titans							3896461	250			1			44505	44505	128	44100		MPEG audio file								\workout\gu2ez_670N0
+Vantablack	Dirtyphonics, Sullivan King		Vantablack							4488725	265			1			44505	44505	128	44100		MPEG audio file								\workout\MLB8tSA2GFA
+Moving Hectic (feat. Harry Shotta)	Slippy, Harry Shotta		Moving Hectic (feat. Harry Shotta)							3647832	228			1			44505	44505	128	44100		MPEG audio file								\workout\vF05aOJhN94
+Heist	Noisestorm		Heist							2916336	182			1			44505	44505	128	44100		MPEG audio file								\workout\CaY36kVk-cU
+That Sound	Reach, Slippy		That Sound							4034390	252			1			44505	44505	128	44100		MPEG audio file								\workout\2fDeVUyuiY0
+Chipland	nanobii		Chipland							3047996	190			1			44505	44505	128	44100		MPEG audio file								\workout\xP81pkKKSS4
+Bring the Madness (feat. Mayor Apeshit)	Excision, Pegboard Nerds, Mayor Apeshit		Bring the Madness (feat. Mayor Apeshit)							3285073	205			1			44505	44505	128	44100		MPEG audio file								\workout\8dZDdW7v4Q8
+Alien	Dodge & Fuski, Virtual Riot		Alien							2966926	185			1			44505	44505	128	44100		MPEG audio file								\workout\gzSp8kn6dys
+Juices - Pegboard Nerds Remix	Virtual Riot, Dubloadz, Pegboard Nerds		Chemistry EP (The Remixes)							3608967	225			2			44505	44505	128	44100		MPEG audio file								\workout\WPqld1UPdFE
+Voodoo	Pegboard Nerds, Tony Junior		Voodoo							3591359	220			1			44505	44505	128	44100		MPEG audio file								\workout\djfgVPIghkw
+Go Berzerk	Pegboard Nerds, Quiet Disorder		Nerds by Nature - EP							3328066	207			4			44505	44505	128	44100		MPEG audio file								\workout\iprZ7Q5Jqjw
+Move That Body	Pegboard Nerds, Quiet Disorder		Move That Body							3476857	217			1			44505	44505	128	44100		MPEG audio file								\workout\KPK4seQtuaw
+Move That Body (Soltan Remix)	Pegboard Nerds, Quiet Disorder, Soltan		Move That Body (Soltan Remix)							3702175	231			1			44505	44505	128	44100		MPEG audio file								\workout\9PhCWomsW1w
+We Are One (feat. Splitbreed)	Pegboard Nerds, SPLITBREED		Monstercat 012 - Aftermath							3392870	211			3			44505	44505	128	44100		MPEG audio file								\workout\JJvdp0XpSj0
+Drink Up	Tut Tut Child		Drink Up							3665328	230			1			44505	44505	128	44100		MPEG audio file								\workout\npomRIkyU3g
+Breakdown VIP	Noisestorm		Breakdown VIP							3751852	234			1			44505	44505	128	44100		MPEG audio file								\workout\wqZ5iLOUOGA
+Fingerbang (VIP Mix)	MDK		Fingerbang (VIP Mix)							3943285	245			1			44505	44505	128	44100		MPEG audio file								\workout\OaeLXHIcKGE
+Maelstrom	Tut Tut Child		Monstercat 007 - Solace							3819571	238			7			44505	44505	128	44100		MPEG audio file								\workout\ijxkYh3W_5k
+Like A Bitch - Extended Mix	Zomboy		Neon Grave							4233766	264			5			44505	44505	128	44100		MPEG audio file								\workout\CuF-eZ_tKyE
+Flight	Tristam, Braken		Monstercat 012 - Aftermath							3512373	219			1			44505	44505	128	44100		MPEG audio file								\workout\f_1lUNNMTSY
+New Age	MUZZ, Celldweller		The Cascade EP							5351384	334			1			44505	44505	128	44100		MPEG audio file								\workout\X78KKpVCf1E
+Elevate	MUZZ, Flite, Miss Trouble		The Cascade EP							5841658	365			2			44505	44505	128	44100		MPEG audio file								\workout\W15MaUyHoIM
+Shut It Down	MUZZ, Teddy Killerz, MC Mota		The Cascade EP							4004736	250			4			44505	44505	128	44100		MPEG audio file								\workout\r8zl25irstI
+Cascade	MUZZ, A.M.C, Turno		The Cascade EP							5987101	374			5			44505	44505	128	44100		MPEG audio file								\workout\DmSD6rBkPY4
+Barracuda	Noisestorm		Barracuda							4204076	262			1			44505	44505	128	44100		MPEG audio file								\workout\KKRRWQq5f5E
+Harpoon	Knife Party, Pegboard Nerds		Full Hearts EP							5642712	352			1			44505	44505	128	44100		MPEG audio file								\workout\lATdwvE4lLU
+Steel	Pegboard Nerds		Full Hearts EP							4143895	258			2			44505	44505	128	44100		MPEG audio file								\workout\O3Z7hmRtGq4
+Purple People Eater	Pegboard Nerds		Full Hearts EP							4197826	262			3			44505	44505	128	44100		MPEG audio file								\workout\AKkKeNtYMTo
+OSCar	Pegboard Nerds		Full Hearts EP							2882076	258			4			44505	44505	128	44100		MPEG audio file								\workout\5KzCSGKNqZE
+Escape	Pegboard Nerds, Dion Timmer		Full Hearts EP							3562110	222			5			44505	44505	128	44100		MPEG audio file								\workout\nmsWnYiTVT4
+Horsepower	MUZZ		Horsepower							3217688	291			1			44505	44505	128	44100		MPEG audio file								\workout\XKEfqi_XO_8
+Revelry	Milkman		Fragments							4503748	281			2			44505	44505	128	44100		MPEG audio file								\workout\woRYQz9-Vmg
+Continue	Virtual Riot		Continue							3819554	226			1			44505	44505	128	44100		MPEG audio file								\workout\x0Vcz_I9tjE
+Worth the Lie	MUZZ, Koven, Feint		Worth the Lie							3429196	309			1			44505	44505	128	44100		MPEG audio file								\workout\die0ZEGXHJw
+THE DROP	Gammer		THE DROP							3715894	232			4			44505	44505	128	44100		MPEG audio file								\workout\1z4nE7_7vmc
+Unity	Rogue, Stonebank, Slippy		Unity							3245702	202			1			44505	44505	128	44100		MPEG audio file								\workout\t706ljMINw0
+Children of Hell	MUZZ		F Minor Factory - EP							6480294	404			4			44505	44505	128	44100		MPEG audio file								\workout\82DXRsJKYSk
+BAMF (RIOT Remix)	Pegboard Nerds, RIOT		Nerds by Nature (The Remixes)							4201606	262			5			44505	44505	128	44100		MPEG audio file								\workout\__l36Ew-1vU
+Go Berzerk (Gammer Remix)	Pegboard Nerds, Quiet Disorder, Gammer		Nerds by Nature (The Remixes)							3631954	226			4			44505	44505	128	44100		MPEG audio file								\workout\3p85vDNGatg
+Hypemachine	Rob Gasser		Hypemachine							3548302	221			1			44505	44505	128	44100		MPEG audio file								\workout\uMw5B2qnsRo
+Pretty Rave Girl (Suae X Technikore Remix)	S3RL, Suae, Technikore		Pretty Rave Girl (Suae X Technikore Remix)							2584144	160			1			44505	44505	128	44100		MPEG audio file								\workout\HQciBSo_jWU
+Overkill	RIOT		Overkill							5485113	342			1			44505	44505	128	44100		MPEG audio file								\workout\A8pOVirjGF0
+Disorder	RIOT		Disorder							3035872	189			1			44505	44505	128	44100		MPEG audio file								\workout\_rYMwGN3J4A
+Crescendo (feat. MYLK)	MUZZ		Crescendo (feat. MYLK)							4779626	298			1			44505	44505	128	44100		MPEG audio file								\workout\_qg0j-mCCwc
+Rapture (feat. MC Mota)	KUURO, MC Mota		Rapture (feat. MC Mota)							3546658	221			1			44505	44505	128	44100		MPEG audio file								\workout\5-Vvm1fTnI0
+Rainbow Road	nanobii		Rainbow Road							2783436	173			1			44505	44505	128	44100		MPEG audio file								\workout\a0Aauep0VWs
+Sell Out	Marshmello, SVDDEN DEATH		Sell Out							3080614	192			1			44505	44505	128	44100		MPEG audio file								\workout\XiM1eJZzgEk
+Juices - Pegboard Nerds Remix	Virtual Riot, Dubloadz, Pegboard Nerds		Chemistry EP (The Remixes)							3608967	225			2			44505	44505	128	44100		MPEG audio file								\workout\WPqld1UPdFE
+Bass Drop	Zero Hero		Monstercat Uncaged, Vol. 1							2976546	186			17			44505	44505	128	44100		MPEG audio file								\workout\1-19xoOWsgQ
+Invaders Must Die	The Prodigy		Invaders Must Die							4853602	295			1			44505	44505	128	44100		MPEG audio file								\workout\lTD2eo0boN0
+Drama Free	deadmau5, Lights		mau5ville: Level 2							5282009	191			1			44505	44505	128	44100		MPEG audio file								\workout\zFfL0y3zyfc
+Drama Free - Chris Lorenzo Remix	deadmau5, Lights, Chris Lorenzo		mau5ville: Level 2							3395796	212			2			44505	44505	128	44100		MPEG audio file								\workout\3yGgJz7owIg
+Gunslinga	Pegboard Nerds, MC Mota		Gunslinga							2796403	164			1			44505	44505	128	44100		MPEG audio file								\workout\vIaPWxMPhug
+Breakn' a Sweat	Skrillex, The Doors, Ray Manzarek, Robby Krieger		Bangarang EP							4856139	301			3			44505	44505	128	44100		MPEG audio file								\workout\nUA8OzQxGxE
+Right on Time	Skrillex, 12th Planet, Kill The Noise		Bangarang EP							3958768	245			5			44505	44505	128	44100		MPEG audio file								\workout\l1NGkTSGoxo
+Junction Seven	MUZZ		F Minor Factory - EP							4884524	305			2			44505	44505	128	44100		MPEG audio file								\workout\vBH0tDqGjts
+Bollywood Stunna	Reach		Bollywood Stunna							2809773	175			1			44505	44505	128	44100		MPEG audio file								\workout\aOZ_YYdKeuU
+Spooky	Tokyo Machine		Spooky							3677444	229			1			44505	44505	128	44100		MPEG audio file								\workout\qZcR_afc1Mw
+Comeback	Falcon Funk, Bossfight		Comeback							3257408	203			1			44505	44505	128	44100		MPEG audio file								\workout\xft9wOGs8Us
+365 - KUURO Remix	Zedd, Katy Perry, KUURO		365 (Remixes)							3940787	246			4			44505	44505	128	44100		MPEG audio file								\workout\qGyAntFCZxg
+X Up (Astronaut Remix)	Excision, The Frim, Astronaut, Messinian		X Up The Remixes							4656776	290			1			44505	44505	128	44100		MPEG audio file								\workout\MYu5hU80JJk
+404	Knife Party		Abandon Ship							4747839	298			5			44505	44505	128	44100		MPEG audio file								\workout\gnnIrTLlLyA
+Flying Spaghetti Monster	Doctor P		Animal Vegetable Mineral Pt. 1							3995130	249			2			44505	44505	128	44100		MPEG audio file								\workout\R4GPA7fEjlY
+Bonfire	Knife Party		Rage Valley							4355378	272			3			44505	44505	128	44100		MPEG audio file								\workout\e-IWRmpefzE
+One Click Headshot	Feed Me		Feed Me's Escape from Electric Mountain							4595740	287			3			44505	44505	128	44100		MPEG audio file								\workout\F2FMDV8yW9M

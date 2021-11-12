@@ -1,0 +1,10 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Hurts Just Right	BRAINCOATS									2739158	85.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/BRAINCOATS/Hurts Just Right/Can't Have You/01 Hurts Just Right.mp3
+Can't Have You	BRAINCOATS									3224407	100.5			2			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/BRAINCOATS/Hurts Just Right/Can't Have You/02 Can't Have You.mp3
+500	BRAINCOATS									1736866	54.0			3			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/BRAINCOATS/Hopeless Arguments/03 500.mp3
+Seven	BRAINCOATS									2373844	73.0			3			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/BRAINCOATS/Bad Dreams & Tumbleweeds/03 Seven.mp3
+Suicide City	BRAINCOATS									3454281	107.5			2			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/BRAINCOATS/12 Reasons For Self-Medication/02 Suicide City.mp3
+99 Fatalities	BRAINCOATS									3334306	81.5			3			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/BRAINCOATS/Madhouse/03 99 Fatalities.mp3
+Dead At 21	BRAINCOATS									3132451	82.0			4			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/BRAINCOATS/12 Reasons For Self-Medication/04 Dead At 21.mp3
+Indie Girl	BRAINCOATS									2840291	89.0			5			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/BRAINCOATS/Bad Dreams & Tumbleweeds/05 Indie Girl.mp3
+Gasoline	BRAINCOATS									3008733	94.5			7			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/BRAINCOATS/12 Reasons For Self-Medication/07 Gasoline.mp3

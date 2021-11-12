@@ -1,0 +1,20 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+404	Knife Party		Abandon Ship							4747839	298			5			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\gnnIrTLlLyA
+Flying Spaghetti Monster	Doctor P		Animal Vegetable Mineral Pt. 1							3995130	249			2			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\R4GPA7fEjlY
+Bonfire	Knife Party		Rage Valley							4355378	272			3			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\e-IWRmpefzE
+One Click Headshot	Feed Me		Feed Me's Escape from Electric Mountain							4595740	287			3			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\F2FMDV8yW9M
+Centipede	Knife Party		Rage Valley							3937003	246			2			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\GKzsktuqwyU
+Like A Bitch - Extended Mix	Zomboy		Neon Grave							4233766	264			5			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\CuF-eZ_tKyE
+Cracks - Flux Pavilion Remix	Freestylers, Belle Humble, Flux Pavilion		Cracks							2047453	281			2			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\K1VLaXoRRdk
+Internet Friends	Knife Party		100% No Modern Talking							4819333	301			1			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\8wtuyiK0AeE
+Make It Bun Dem	Skrillex, Damian Marley		Make It Bun Dem							3422099	213			1			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\PR_u9rvFKzE
+Bullseye	KDrew		Free, Vol. 4							3978793	248			1			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\e22wjV8HT_I
+Alien	Dodge & Fuski, Virtual Riot		Alien							2966926	185			1			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\gzSp8kn6dys
+Rage Valley	Knife Party		Rage Valley							4792568	299			1			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\Ys9sIqv42lo
+First of the Year (Equinox)	Skrillex		More Monsters and Sprites EP							4187811	261			1			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\TYYyMu3pzL4
+Fire Hive	Knife Party		100% No Modern Talking							4462807	278			4			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\xcLqVfKTtKw
+Thumbs Up	Kill The Noise, Feed Me		BLVCK MVGIC EP							4367934	235			5			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\YvVL3SqKAsc
+Unison - Knife Party Remix	Porter Robinson, Knife Party		Spitfire EP							2467075	298			7			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\_akOgpCzQ4s
+Bangarang (feat. Sirah)	Skrillex, Sirah		Bangarang EP							3462638	215			2			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\cR2XilcGYOo
+MOSHI	Pegboard Nerds, Tokyo Machine		MOSHI							3442983	214			1			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\NgPWqeirmrM
+Rock 'n' Roll (Will Take You to the Mountain)	Skrillex		Scary Monsters and Nice Sprites (Deluxe Tour Edition)							4615426	284			1			44505	44505	128	44100		MPEG audio file								\bass_heavy_music_to_work_out_to\iIyE3EDCigE

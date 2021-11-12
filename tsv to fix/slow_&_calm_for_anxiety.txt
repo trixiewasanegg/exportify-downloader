@@ -1,0 +1,10 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Tines	Andrew Huang, Rob Scallon		Tines							0	166			1			44505	44505	128	44100		MPEG audio file								\slow_&_calm_for_anxiety\iYsTIYgK_m8
+Rain - Live & Acoustic	Rob Scallon		Rain (Live & Acoustic)							0	128			1			44505	44505	128	44100		MPEG audio file								\slow_&_calm_for_anxiety\_0TU7m-GKHI
+Anchor	Rob Scallon		Anchor							0	230			1			44505	44505	128	44100		MPEG audio file								\slow_&_calm_for_anxiety\wT5ut_AN4hY
+Summer	Rob Scallon		Rob Scallon							0	180			4			44505	44505	128	44100		MPEG audio file								\slow_&_calm_for_anxiety\9fINuf6h31E
+For That Second	Rob Scallon		Rob Scallon							0	235			7			44505	44505	128	44100		MPEG audio file								\slow_&_calm_for_anxiety\IxSxFEzgybw
+A Collapse	Rob Scallon		Anchor EP (Tour Edition)							0	146			2			44505	44505	128	44100		MPEG audio file								\slow_&_calm_for_anxiety\RpcgX96mI6g
+Le Gentil & the Transit of Venus	Rob Scallon		Anchor EP (Tour Edition)							0	201			5			44505	44505	128	44100		MPEG audio file								\slow_&_calm_for_anxiety\njoqfwd7vn4
+Somewhere to Run To	Rob Scallon		Rob Scallon							0	232			10			44505	44505	128	44100		MPEG audio file								\slow_&_calm_for_anxiety\kgtxD_MTmEM
+HomeHomeHome	Rob Scallon		Anchor EP (Tour Edition)							0	201			4			44505	44505	128	44100		MPEG audio file								\slow_&_calm_for_anxiety\gUmAEdt2hmw

@@ -1,0 +1,10 @@
+Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Tines	Andrew Huang, Rob Scallon									0	83.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Andrew Huang, Rob Scallon/Tines/01 Tines.mp3
+Rain - Live & Acoustic	Rob Scallon									0	64.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Rob Scallon/Rain (Live & Acoustic)/01 Rain - Live & Acoustic.mp3
+Anchor	Rob Scallon									0	115.0			1			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Rob Scallon/Anchor/01 Anchor.mp3
+Summer	Rob Scallon									0	90.0			4			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Rob Scallon/Rob Scallon/04 Summer.mp3
+For That Second	Rob Scallon									0	117.5			7			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Rob Scallon/Rob Scallon/07 For That Second.mp3
+A Collapse	Rob Scallon									0	73.0			2			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Rob Scallon/Anchor EP (Tour Edition)/02 A Collapse.mp3
+Le Gentil & the Transit of Venus	Rob Scallon									0	100.5			5			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Rob Scallon/Anchor EP (Tour Edition)/05 Le Gentil & the Transit of Venus.mp3
+Somewhere to Run To	Rob Scallon									0	116.0			10			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Rob Scallon/Rob Scallon/010 Somewhere to Run To.mp3
+HomeHomeHome	Rob Scallon									0	100.5			4			44505	44505	128	44100		MPEG audio file								Macintosh HD/Users/bea/Music/Music/Media.localized/Music/Rob Scallon/Anchor EP (Tour Edition)/04 HomeHomeHome.mp3
