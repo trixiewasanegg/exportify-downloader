@@ -21,7 +21,7 @@ directory = safeconvert(playlistname)
 ###Creates Output Folder/s
 try:
     os.mkdir(os.path.expanduser('~') + delim + 'playlists')
-except:
+except: 
     print ('Playlists folder exists')
 
 try:
