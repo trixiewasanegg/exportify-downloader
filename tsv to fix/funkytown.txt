@@ -1,7 +1,0 @@
-Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
-Palm Road	AnTgry		Road Trip							2776323	173			2			44505	44505	128	44100		MPEG audio file								\funkytown\CRYT7e2zPEQ
-Rain	Tendencies		Waterbed							2615407	163			2			44505	44505	128	44100		MPEG audio file								\funkytown\8KfHtR54FiI
-Flying to Space	Android52		The B-Sides							2763378	172			2			44505	44505	128	44100		MPEG audio file								\funkytown\VHXNvk-s76s
-Capri Sun	DUCAT		Groovez							2909231	181			1			44505	44505	128	44100		MPEG audio file								\funkytown\zREjLm5TRso
-Funk Express	Proux		Back By Popular Demand							1511594	110			4			44505	44505	128	44100		MPEG audio file								\funkytown\movrGGppehQ
-Have A Good Time	Skule Toyama		Toyama's Love Island							2335818	145			2			44505	44505	128	44100		MPEG audio file								\funkytown\Eaca52RCjlU

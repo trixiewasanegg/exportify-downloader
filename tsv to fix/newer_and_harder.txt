@@ -1,9 +1,0 @@
-Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
-Bonkers	Dizzee Rascal		Tongue N' Cheek							5103531	177			1			44505	44505	128	44100		MPEG audio file								\newer_and_harder\on1Kgq6Dnvk
-Fatty Boom Boom	Die Antwoord		Ten$ion							5476768	225			5			44505	44505	128	44100		MPEG audio file								\newer_and_harder\AIXUgtNC4Kc
-Hot	FWLR		Hot							2730752	170			1			44505	44505	128	44100		MPEG audio file								\newer_and_harder\mrCu4vr8RZc
-Carry On	F.O.O.L, Holly Drummond		Carry On							4443578	277			1			44505	44505	128	44100		MPEG audio file								\newer_and_harder\Us3r537CevI
-Adventures	Julian Calor		Adventures							3818722	238			1			44505	44505	128	44100		MPEG audio file								\newer_and_harder\C9EOll3A7Kg
-Daggers	SLUMBERJACK, Machine Age		SARAWAK							3700863	231			1			44505	44505	128	44100		MPEG audio file								\newer_and_harder\001uWIiubDs
-PLAY	Tokyo Machine		PLAY							2946430	183			1			44505	44505	128	44100		MPEG audio file								\newer_and_harder\RhR_Z5wVvJM
-Bassline Junkie	Dizzee Rascal		Dizzee Rascal Presents DirteeTV.com							3209368	202			1			44505	44505	128	44100		MPEG audio file								\newer_and_harder\D1gl46hh3sQ

@@ -1,9 +1,0 @@
-Name	Artist	Composer	Album	Grouping	Work	Movement Number	Movement Count	Movement Name	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
-Fall in Love	Android52		Ultra Groove Product							3391576	211			5			44505	44505	128	44100		MPEG audio file								\the_funk\PEjTS56oiFw
-Eternal Groove	Android52		The B-Sides							2706952	169			5			44505	44505	128	44100		MPEG audio file								\the_funk\OQ6ei6ZX58Q
-Six Letter Word	Android52		52 Days of Autumn							3996363	249			9			44505	44505	128	44100		MPEG audio file								\the_funk\ky2zOfhegLY
-Bassline 5000	Android52		Bassline 5000							2924292	182			1			44505	44505	128	44100		MPEG audio file								\the_funk\arQobOyfpa8
-Flying to Space	Android52		The B-Sides							2763378	172			2			44505	44505	128	44100		MPEG audio file								\the_funk\VHXNvk-s76s
-Bounce, Yeah	Android52		Ultra Groove Product							3421669	213			3			44505	44505	128	44100		MPEG audio file								\the_funk\7tGJq-KpwSs
-Pastel (Feat. Snail's House)	Moe Shop, Snail's House		Pastel							3970048	246			1			44505	44505	128	44100		MPEG audio file								\the_funk\EHyoAXILbA8
-Perth - Mixed	KiNK		Defected Radio Episode 081 (hosted by Sam Divine)							3501107	245			3			44505	44505	128	44100		MPEG audio file								\the_funk\mmfBzy1E0kM
