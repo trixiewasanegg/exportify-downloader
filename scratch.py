@@ -1,35 +1,4 @@
-import csv
-import os
-from modules import safeconvert
+minor_key = ['5A','12A','7A','2A','9A','4A','11A','6A','1A','8A','3A','10A']
 
-###Defines Arrays for Usage
-#Track Name
-trnames=[]
-#Artist Name
-arnames=[]
-#Album Name
-alnames=[]
-#Track Numbers
-trnums=[]
-#Duration
-durations=[]
-#YouTube IDs (will be used as file-names)
-ytids=[]
-#Keys
-keys=[]
-#Locations
-locations=[]
-#Playlist Name
-playlistnames=[]
-
-with open('master.csv', newline='') as master:
-    for row in csv.DictReader(master, delimiter=','):
-        keys.append(row['Key'])
-        locations.append(row['Location'])
-
-key = 'Get+LemonDisciple'
-
-a = keys.index(key)
-location = locations[a]
-
-print (location)
+print(len(minor_key))
+print(minor_key[0])

@@ -13,6 +13,7 @@ from pytube import YouTube
 def safeconvert(input):
     output=input.replace(" ", "+")
     output=output.replace(',','')
+    output=output.replace("&","+")
     output=output.encode('ascii', 'xmlcharrefreplace')
     output=output.decode('ascii')
     return output
@@ -42,7 +43,7 @@ def ytquery(trname, arname):
     return id
 
 #Downloads YouTube ID into Directory, Path Delimiter Defined
-def ytdown(id, dir, delim):
+def ytdown(id, dir, delim,file):
     #Defines Watch Prefix
     ytwatchprefix='http://youtube.com/watch?v='
 
@@ -51,14 +52,14 @@ def ytdown(id, dir, delim):
     yt = YouTube(url)
 
     #Downloads File
-    filename = id + '.mp4'
+    filename = file + '.mp4'
     print ('Downloading ' + url + '...')
     stream = yt.streams.get_audio_only()
     stream.download(filename=filename,output_path=dir)
 
     #ffmpeg imports from filein and exports to fileout
-    fileout = dir + delim + id + '.mp3'
-    filein = dir + delim + id + '.mp4'
+    fileout = dir + delim + file + '.mp3'
+    filein = dir + delim + filename
     print ('Converting ' + filein + ' to ' + fileout)
     cmd = 'ffmpeg -hide_banner -loglevel error -y -i  ' + filein +' ' + fileout
     os.system(cmd)
@@ -90,6 +91,18 @@ def days_between(d1, d2):
     d2 = datetime.strptime(d2, "%Y-%m-%d")
     return abs((d2 - d1).days)
 
+#Takes Keys and turns it into Mixed In Key Camelot Code
+def keycalc(key,mode):
+    #Defines Key Arrays
+    #Look, I fucking hate this too but this is the easiest way I could think of doing it without learning music theory
+    minor_key = ['5A','12A','7A','2A','9A','4A','11A','6A','1A','8A','3A','10A']
+    major_key = ['8B','3B','10B','5B','12B','7B','2B','9B','4B','11B','6B','1B']
+
+    if mode == 0:
+        return(minor_key[key])
+    if mode == 1:
+        return(major_key[key])
+
 #Primary Playlist Making Function
 def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
     ###Defines Arrays for Usage
@@ -103,7 +116,7 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
     trnums=[]
     #Duration
     durations=[]
-    #YouTube IDs (will be used as file-names)
+    #YouTube IDs
     ytids=[]
 
     ###CSV Import into Lists
@@ -113,8 +126,10 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
             trnames.append(row['Track Name'])
             arnames.append(row['Artist Name(s)'])
             alnames.append(row['Album Name'])
-            trnums.append(row['Track Number'])
-            dur = int(row['Track Duration (ms)'])
+            # Current version of exportify doesn't include track nums, defined as 1
+            # trnums.append(row['Track Number'])
+            trnums.append('1')
+            dur = int(row['Duration (ms)'])
             dursec = math.trunc(dur/1000)
             durations.append(str(dursec))
     
@@ -126,6 +141,8 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
         artist = arnames[i]
         album = alnames[i]
         trnum = trnums[i]
+        filename = artist+"_"+track
+        filename = safeconvert(filename)
 
         #Queries YouTube and Appends to ytids
         ytid = ytquery(track, artist)
@@ -133,7 +150,7 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
         
         #Downloads Stream
         try:
-            fileout = ytdown(ytid, dir, delim)
+            fileout = ytdown(ytid, dir, delim, filename)
             meta(fileout, artist, track, album, trnum)
         
         except:
@@ -186,6 +203,63 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
             print ('Written row ' + str(i))
             tsv_writer.writerow([trname, arname, '', alname, '', '', '', '', '', '', size, dur, '', '', trnum, '', '', dateadd, dateadd, bitrate, samplerate, '', kind, '', '', '', '', '', '', '', path])
             i = i+1
+
+#DJ Playlist Maker
+def makeDJPlaylist(csvin, delim, dir, playlistname):
+    ###Defines Arrays for Usage
+    #Track Name
+    trnames=[]
+    #Artist Name
+    arnames=[]
+    #Key
+    keys=[]
+    #Tempo
+    tempos=[]
+    #Genres
+    genres=[]
+    #YouTube IDs (will be used as file-names)
+    ytids=[]
+
+    ###CSV Import into Lists
+    with open (csvin, newline='') as input:
+        i=0
+        for row in csv.DictReader(input):
+            #Artist & Track name
+            trnames.append(row['Track Name'])
+            arnames.append(row['Artist Name(s)'])
+            #Finds Camelot Key
+            key = keycalc(int(row['Key']),int(row['Mode']))
+            keys.append(key)
+            #Rounds Tempo to nearest whole num
+            tempo = round(float(row['Tempo']),0)
+            tempos.append(str(tempo).split('.')[0])
+            #Finds Genres
+            genres.append(safeconvert(row['Genres'].split(',')[0]))
+
+    ###Runs through lists, generates YouTube IDs, downloads them & converts to mp3
+    i=0
+    while i < len(trnames):
+        #Defines Relevant Variables from Lists
+        track = trnames[i]
+        artist = arnames[i]
+        tempo = tempos[i]
+        key = keys[i]
+        genre = genres[i]
+        filename = safeconvert("["+key+'_'+tempo+'_'+genre+"]"+artist+'-'+track)
+
+        #Queries YouTube and Appends to ytids
+        ytid = ytquery(track, artist)
+        ytids.append(ytid)
+        
+        #Downloads Stream
+        try:
+            fileout = ytdown(ytid, dir, delim, filename)
+            print('Finished '+fileout)
+        
+        except:
+            text = ytid + ' error occured when downloading - playlist:' + playlistname
+            exception('400', text, delim)
+        i = i+1    
 
 #Exception Handler
 def exception(code, text, delim):
