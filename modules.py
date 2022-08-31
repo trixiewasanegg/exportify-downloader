@@ -43,7 +43,7 @@ def ytquery(trname, arname):
     return id
 
 #Downloads YouTube ID into Directory, Path Delimiter Defined
-def ytdown(id, dir, delim,file):
+def ytdown(id, dir, delim, file):
     #Defines Watch Prefix
     ytwatchprefix='http://youtube.com/watch?v='
 
@@ -118,13 +118,22 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
     durations=[]
     #YouTube IDs
     ytids=[]
+    #FileNames
+    filenames=[]
+    #Genres
+    genres=[]
+    #Year
+    years=[]
 
     ###CSV Import into Lists
     with open (csvin, newline='') as input:
         i=0
         for row in csv.DictReader(input):
             trnames.append(row['Track Name'])
+            track = row['Track Name']
             arnames.append(row['Artist Name(s)'])
+            artist = row['Artist Name(s)']
+            filenames.append(safeconvert(artist+"_"+track))
             alnames.append(row['Album Name'])
             # Current version of exportify doesn't include track nums, defined as 1
             # trnums.append(row['Track Number'])
@@ -132,6 +141,9 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
             dur = int(row['Duration (ms)'])
             dursec = math.trunc(dur/1000)
             durations.append(str(dursec))
+            genres.append(safeconvert(row['Genres'].split(',')[0]))
+            years.append(str(row['Release Date'].split('-')[0]))
+
     
     ###Runs through lists, generates YouTube IDs, downloads them, converts to mp3 and adds id3 meta
     i=0
@@ -141,9 +153,9 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
         artist = arnames[i]
         album = alnames[i]
         trnum = trnums[i]
-        filename = artist+"_"+track
-        filename = safeconvert(filename)
-
+        genre = genres[i]
+        year = years[i]
+        filename = filenames[i]
         #Queries YouTube and Appends to ytids
         ytid = ytquery(track, artist)
         ytids.append(ytid)
@@ -189,19 +201,19 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
             alname=alnames[i]
             trnum=trnums[i]
             dur=durations[i]
-            id=ytids[i]
-            fileout = dir + delim + id + '.mp3'
+            filename=filenames[i]
+            fileout = dir + delim + filename + '.mp3'
             try:
                 size = os.path.getsize(fileout)
             except:
                 exception('404', 'failed to get size of file ' + fileout, delim)
                 size = str(0)
-            if path_prefix == '':
+            if path_prefix == '' or path_prefix == 0:
                 path = os.path.abspath(fileout)
             else:
                 path = path_prefix + delim + playlistname + delim + id
             print ('Written row ' + str(i))
-            tsv_writer.writerow([trname, arname, '', alname, '', '', '', '', '', '', size, dur, '', '', trnum, '', '', dateadd, dateadd, bitrate, samplerate, '', kind, '', '', '', '', '', '', '', path])
+            tsv_writer.writerow([trname, arname, '', alname, '', '', '', '', '', genre, size, dur, '', '', trnum, '', year, dateadd, dateadd, bitrate, samplerate, '', kind, '', '', '', '', '', '', '', path])
             i = i+1
 
 #DJ Playlist Maker

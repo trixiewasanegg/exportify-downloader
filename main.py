@@ -43,7 +43,7 @@ while brk != 1:
             path_prefix = 0
         makeplaylist(csvin, delim, path_prefix, dir, playlistname)
         brk = 1
-    if usage == 2:
+    elif usage == 2:
         makeDJPlaylist(csvin, delim, dir, playlistname)
         brk = 1
     else:
