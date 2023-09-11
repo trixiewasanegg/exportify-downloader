@@ -1,11 +1,10 @@
 import csv
 import math
 import os
-import re
-import urllib.request
 from datetime import datetime
 import eyed3
 from pytube import YouTube
+from pytube import Search
 
 ###Functions
 
@@ -20,26 +19,13 @@ def safeconvert(input):
 
 #Queries Youtube for Track/Artist, outputs first result as YouTube ID
 def ytquery(trname, arname):
-    #Prefix for YouTube Results
-    ytresprefix='http://www.youtube.com/results?search_query='
-    #Any Postfix for Search
-    searchpostfix='+Topic'
-
-    #Converts input variables into ASCII
-    trnamesafe = safeconvert(trname)
-    arnamesafe = safeconvert(arname)
-
-    #Concatenates Query
-    query=ytresprefix + trnamesafe + '+' + arnamesafe + searchpostfix
-    print ('Querying ' + query)
-
-    #Queries YouTube
-    html = urllib.request.urlopen(query)
-    video_ids = re.findall(r"watch\?v=(\S{11})", html.read().decode())
-    id=video_ids[0]
-
-    #Returns ID
-    print ('Returned ' + id)
+    #Generates the search query as Artist Track + Topic bc YouTube Music
+    query = trname + " " + arname + " Topic"
+    #Tells pytube to query
+    s = Search(query)
+    #Grabs the first ID and returns it.
+    id = str(s.results[0])[41:52]
+    print("Returned ID " + id)
     return id
 
 #Downloads YouTube ID into Directory, Path Delimiter Defined
@@ -139,7 +125,7 @@ def makeplaylist(csvin, delim, path_prefix, dir, playlistname):
             # trnums.append(row['Track Number'])
             trnums.append('1')
             dur = int(row['Duration (ms)'])
-            dursec = math.trunc(dur/1000)
+            dursec = math.trunc(dur/2000)
             durations.append(str(dursec))
             genres.append(safeconvert(row['Genres'].split(',')[0]))
             years.append(str(row['Release Date'].split('-')[0]))

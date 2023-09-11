@@ -36,11 +36,9 @@ Using pytube, the script will query youtube for the song & artist's names, follo
 
 Usually, YouTube Music will auto populate their stuff into channels ending in topic - adding that makes it a bit more reliable
 
-Then, it gets all the links on the page and, thanks to the wonders of regexes (that I didn't write, credit to [this tutorial on codefather.tech](https://codefather.tech/blog/youtube-search-python/)), it returns the first one that ends in _'watch\?v=sOm3L3tterz'_
+Initially, I had this written to query the search URL and, using some regexes I didn't actually write, grabbing the first ID it sees but *thankyou, oh lord of advertising Alphabet Inc* it started returning the results as ads. Which is bullshit. I don't want a Jeep ad on my iPod.
 
-    html = urllib.request.urlopen(query)
-    video_ids = re.findall(r"watch\?v=(\S{11})", html.read().decode())
-    id=video_ids[0]
+SO I then read the pytube documentation to try and figure out if it would return anything for unlisted videos (which they usually are) and I realised it had a search function all  along. Implemented that into the search function I had, and we're golden. There is definintely a more efficient way to do this but I need this working ASAP so I can download a bunch of shit for work tomorrow.
 
 Then, with the video ID, downloads that and *badabing badaboom* you've got yourself something that searches and downloads YouTube. I am a gigagenius.
 
