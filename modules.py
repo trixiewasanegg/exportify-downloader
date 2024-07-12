@@ -11,16 +11,18 @@ from pytube import Search
 #Converts String into Websafe ASCII
 def safeconvert(input):
     output=input.replace(" ", "+")
-    output=output.replace(',','')
-    output=output.replace("&","+")
+    output=output.replace("ö","o")
     output=output.encode('ascii', 'xmlcharrefreplace')
     output=output.decode('ascii')
+    output=output.replace(',','')
+    output=output.replace("&","+")
     return output
 
 #Queries Youtube for Track/Artist, outputs first result as YouTube ID
 def ytquery(trname, arname):
     #Generates the search query as Artist Track + Topic bc YouTube Music
     query = trname + " " + arname + " Topic"
+    print("Querying " + query)
     #Tells pytube to query
     s = Search(query)
     #Grabs the first ID and returns it.
@@ -31,7 +33,7 @@ def ytquery(trname, arname):
 #Downloads YouTube ID into Directory, Path Delimiter Defined
 def ytdown(id, dir, delim, file):
     #Defines Watch Prefix
-    ytwatchprefix='http://youtube.com/watch?v='
+    ytwatchprefix='https://youtu.be/'
 
     #Defines URL and opens in YouTube
     url = ytwatchprefix + id   
@@ -40,8 +42,7 @@ def ytdown(id, dir, delim, file):
     #Downloads File
     filename = file + '.mp4'
     print ('Downloading ' + url + '...')
-    stream = yt.streams.get_audio_only()
-    stream.download(filename=filename,output_path=dir)
+    stream = yt.streams.get_audio_only().download(filename=filename,output_path=dir)
 
     #ffmpeg imports from filein and exports to fileout
     fileout = dir + delim + file + '.mp3'
@@ -258,6 +259,71 @@ def makeDJPlaylist(csvin, delim, dir, playlistname):
             text = ytid + ' error occured when downloading - playlist:' + playlistname
             exception('400', text, delim)
         i = i+1    
+
+#Pure Downloader
+def pureDownload(csvin, delim, dir, playlistname):
+    ###Defines Arrays for Usage
+    #Track Name
+    trnames=[]
+    #Artist Name
+    arnames=[]
+    #Album Name
+    alnames=[]
+    #Track Numbers
+    trnums=[]
+    #Duration
+    durations=[]
+    #YouTube IDs
+    ytids=[]
+    #FileNames
+    filenames=[]
+    #Genres
+    genres=[]
+    #Year
+    years=[]
+
+    ###CSV Import into Lists
+    with open (csvin, newline='') as input:
+        i=0
+        for row in csv.DictReader(input):
+            trnames.append(row['Track Name'])
+            track = row['Track Name']
+            arnames.append(row['Artist Name(s)'])
+            artist = row['Artist Name(s)']
+            filenames.append(safeconvert(artist+"_"+track))
+            alnames.append(row['Album Name'])
+            # Current version of exportify doesn't include track nums, defined as 1
+            # trnums.append(row['Track Number'])
+            trnums.append('1')
+            dur = int(row['Duration (ms)'])
+            dursec = math.trunc(dur/2000)
+            durations.append(str(dursec))
+            genres.append(safeconvert(row['Genres'].split(',')[0]))
+            years.append(str(row['Release Date'].split('-')[0]))
+
+    
+    ###Runs through lists, generates YouTube IDs, downloads them, converts to mp3 and adds id3 meta
+    i=0
+    while i < len(trnames):
+        #Defines Relevant Variables from Lists
+        track = trnames[i]
+        artist = arnames[i]
+        album = alnames[i]
+        trnum = trnums[i]
+        filename = filenames[i]
+        #Queries YouTube and Appends to ytids
+        ytid = ytquery(track, artist)
+        ytids.append(ytid)
+        
+        #Downloads Stream
+        try:
+            fileout = ytdown(ytid, dir, delim, filename)
+            meta(fileout, artist, track, album, trnum)
+        
+        except:
+            text = ytid + ' error occured when downloading - playlist:' + playlistname
+            exception('400', text, delim)
+        i = i+1  
 
 #Exception Handler
 def exception(code, text, delim):
