@@ -12,8 +12,12 @@ This may come as a suprise to you, but you'll need Python installed.
    - [FFmpeg](https://ffmpeg.org/)
 
 ## **How to Use**
-Using [exportify.net](https://exportify.net/), grab the playlist you want and download it.
 
+If you're looking to download one file, select option 2 in the inital questions and follow the prompts.
+
+For CSV playlist downloading:
+
+Using [exportify.net](https://exportify.net/), grab the playlist you want and download it.
 
 Run main.py either on it's own, or with the CSV file as an argument
 

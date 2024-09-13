@@ -82,8 +82,10 @@ def days_between(d1, d2):
 def keycalc(key,mode):
     #Defines Key Arrays
     #Look, I fucking hate this too but this is the easiest way I could think of doing it without learning music theory
-    minor_key = ['5A','12A','7A','2A','9A','4A','11A','6A','1A','8A','3A','10A']
-    major_key = ['8B','3B','10B','5B','12B','7B','2B','9B','4B','11B','6B','1B']
+    #minor_key = ['5A','12A','7A','2A','9A','4A','11A','6A','1A','8A','3A','10A']
+    minor_key = ['C min', 'Db min', 'D min', 'Eb min', 'E min', 'F min', 'Gb min', 'G min', 'Ab min', 'A min', 'Bb min', 'B min']
+    #major_key = ['8B','3B','10B','5B','12B','7B','2B','9B','4B','11B','6B','1B']
+    major_key = ['C maj', 'Db maj', 'D maj', 'Eb maj', 'E maj', 'F maj', 'Gb maj', 'G maj', 'Ab maj', 'A maj', 'Bb maj', 'B maj']
 
     if mode == 0:
         return(minor_key[key])
@@ -260,7 +262,7 @@ def makeDJPlaylist(csvin, delim, dir, playlistname):
             exception('400', text, delim)
         i = i+1    
 
-#Pure Downloader
+#Pure CSV Downloader
 def pureDownload(csvin, delim, dir, playlistname):
     ###Defines Arrays for Usage
     #Track Name
