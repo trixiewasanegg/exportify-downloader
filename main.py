@@ -3,13 +3,14 @@ from modules import makeplaylist
 from modules import makeDJPlaylist
 from modules import pureDownload
 from modules import ytdown
+from modules import ytPlaylistDown
 import sys
 import os
 
 brk = 0
 
 while brk != 1:
-    version = input("Please select use case: \n 1: Bulk downloading from CSV\n 2: Single ID download\n")
+    version = input("Please select use case: \n 1: Bulk downloading from CSV\n 2: Bulk downloading a YouTube playlist \n 3: Single ID download\n")
     version = int(version)
 
     ### Bulk CSV Download
@@ -63,21 +64,18 @@ while brk != 1:
 
         brk = 1
 
-    ### Single ID Download
     if version == 2:
-        ID = input("What video would you like to download? Input either the full URL or just the ID \n")
-        # Checks if full URL
-        if "youtu.be" in ID:
-	        # If it contains http:// or https://, split by the / & get the appropriate section
-            if "https://" in ID or "http://" in ID:
-                ID = str(ID.split("/")[3])[0:11]
-            else:
-                ID = str(ID.split("/")[1])[0:11]
-        elif "youtube.com" in ID:
-            # Find the 10 characters after v= in the string
-            v = ID.find("v=")+2
-            ID = ID[v:v+11]
+        ID = input("What playlist would you like to download? Input either the full URL or just the ID \n")
+        folder = input("Where would you like the file downloaded (Absolute path please): \n")
+        delim = input('Please Define Your Path Delimiter: \n')
         
+        ytPlaylistDown(ID,folder,delim)
+
+        brk = 1
+
+    ### Single ID Download
+    if version == 3:
+        ID = input("What video would you like to download? Input either the full URL or just the ID \n")        
         filename = input("Please define your file name (without extension): \n")
         folder = input("Where would you like the file downloaded (Absolute path please): \n")
         delim = input('Please Define Your Path Delimiter: \n')

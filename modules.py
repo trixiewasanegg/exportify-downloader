@@ -1,21 +1,28 @@
+# Standard Python imports
 import csv
 import math
 import os
+import re
 from datetime import datetime
+
+# Other dependencies (see README.md)
 import eyed3
-from pytube import YouTube
-from pytube import Search
+from pytubefix import YouTube
+from pytubefix import Search
+from pytubefix import Playlist
 
 ###Functions
 
 #Converts String into Websafe ASCII
-def safeconvert(input):
-    output=input.replace(" ", "+")
-    output=output.replace("ö","o")
+def safeconvert(input,opt="web"):
+    output=input.replace("ö","o")
     output=output.encode('ascii', 'xmlcharrefreplace')
     output=output.decode('ascii')
     output=output.replace(',','')
+    output=output.replace('/','')
     output=output.replace("&","+")
+    if opt == "web":
+        output=output.replace(' ','+')
     return output
 
 #Queries Youtube for Track/Artist, outputs first result as YouTube ID
@@ -32,11 +39,16 @@ def ytquery(trname, arname):
 
 #Downloads YouTube ID into Directory, Path Delimiter Defined
 def ytdown(id, dir, delim, file):
-    #Defines Watch Prefix
     ytwatchprefix='https://youtu.be/'
-
-    #Defines URL and opens in YouTube
-    url = ytwatchprefix + id   
+    # Checks if being passed a full URL or just the ID, cleans up accordingly
+    if re.search("(http[s]*:\/\/)", id):
+        # Removes superfluous info from URL
+        vidID = re.search("([\/\=])([\w-]{11})([\?\&])", id).group(2)
+        url = ytwatchprefix + vidID
+    elif len(id) == 11:
+        # Appends a watch URL to the ID
+        url = ytwatchprefix + id
+    
     yt = YouTube(url)
 
     #Downloads File
@@ -47,8 +59,8 @@ def ytdown(id, dir, delim, file):
     #ffmpeg imports from filein and exports to fileout
     fileout = dir + delim + file + '.mp3'
     filein = dir + delim + filename
-    print ('Converting ' + filein + ' to ' + fileout)
-    cmd = 'ffmpeg -hide_banner -loglevel error -y -i  ' + filein +' ' + fileout
+    print ('Converting \"' + filein + '\" to \"' + fileout + '\"')
+    cmd = 'ffmpeg -hide_banner -loglevel error -y -i  \"' + filein +'\" \"' + fileout + '\"'
     os.system(cmd)
 
     #Deletes File In
@@ -326,6 +338,21 @@ def pureDownload(csvin, delim, dir, playlistname):
             text = ytid + ' error occured when downloading - playlist:' + playlistname
             exception('400', text, delim)
         i = i+1  
+
+#YouTube playlist downloader
+def ytPlaylistDown(link,dir,delim):
+    # Extracts & reformats playlist link to match standard, then creates a pytube Playlist object
+    id = re.search("(list=[\w-]*)", link, re.IGNORECASE).group(1)
+    plist = Playlist("https://www.youtube.com/playlist?"+id)
+
+    # Fix for blank plist.videos
+    plist._video_regex = re.compile(r"\"url\":\"(/watch\?v=[\w-]*)")
+
+    # Iterates through list, downloads each file
+    for video in plist.videos:
+        id = video.video_id
+        file = safeconvert(video.title,0)
+        ytdown(id,dir,delim,file)
 
 #Exception Handler
 def exception(code, text, delim):

@@ -1,31 +1,37 @@
 # Exportify Downloader
-### Quick and dirty spotify playlist downloader - v 0.1 (Alpha)
+### Quick and dirty playlist downloader - v 0.1 (Alpha)
 
 ## **Installation Instructions**
 
 This may come as a suprise to you, but you'll need Python installed.
 ### Additionally, you'll need:
  - From Pip:
-   - Pytube
+   - Pytubefix (**Pytube is no longer updated, pytubefix is my new best friend**)
    - EyeD3
  - Installed Separately:
    - [FFmpeg](https://ffmpeg.org/)
 
 ## **How to Use**
 
-If you're looking to download one file, select option 2 in the inital questions and follow the prompts.
-
-For CSV playlist downloading:
+**To download a playlist from Spotify:**
 
 Using [exportify.net](https://exportify.net/), grab the playlist you want and download it.
 
-Run main.py either on it's own, or with the CSV file as an argument
+Run main.py either on it's own selecting option 1, or with the CSV file as an argument
 
     e.g: python -e main.py /the/absolute/path/of/csv.csv
 
 Exportify downloader will then ask you a bunch of questions about how you want the files processed.
 
 It's a bodge, but it works
+
+**To download a playlist from YouTube:**
+
+Identify your playlist, then run main.py selecting option 2
+
+**To download a single video from YouTube:**
+
+Identify your playlist, then run main.py selecting option 3
 
 ## **Technical Breakdown**
 Alrighty, this code sucks. It is by no means a work of art (I'm a Photographer/Video editor, not a software engineer) but fuck it, it works.
